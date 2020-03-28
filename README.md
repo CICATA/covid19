@@ -16,7 +16,7 @@ Para guardar el archivo hacer click derecho -> guardar enlace como
 
 
 
-[Caja protectora para intubacion tamanyo adulto](https://github.com/CICATA/covid19/raw/master/caja_covid_rampa_adulto.dxf)
+[Caja protectora para intubacion tamanyo adulto](https://github.com/CICATA/covid19/raw/master/caja_covid_rampa_adulto.dxf/download)
 
 
 [Caja protectora para intubacion tamanyo infantil](https://github.com/CICATA/covid19/raw/master/caja_covid_rampa_infantil.dxf)
