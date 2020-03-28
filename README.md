@@ -31,7 +31,7 @@ Para guardar el archivo haz click derecho -> guardar enlace como
 
 ### Ensamblaje
 
-Para usar el equipo usamos pegamento para acrilico y en las uniones colocamos perfil de acrilico para reforzar
+Primero recortamos las piezas de acrilico utilizando una cortadora laser, posteriormente las unimos aplicando pegamento par acrilico con una jeringa y colocamos perfil de acrilico en las esquinas para reforzar
 
 ![ensamblada](https://github.com/CICATA/covid19/blob/master/terminada.jpg)
 
