@@ -23,10 +23,10 @@ Para guardar el archivo haz click derecho -> guardar enlace como
 
 ## Materiales
 
-+Acrilico de 3mm de grosor
-+Pegamento par acrilico
-+Geringas para aplicar pegamento
-+Perfil de acrilico para las esquinas
++ Acrilico de 3mm de grosor
++ Pegamento par acrilico
++ Geringas para aplicar pegamento
++ Perfil de acrilico para las esquinas
 
 ## Caja ensamblada
 
