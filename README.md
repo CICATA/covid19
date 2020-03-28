@@ -12,7 +12,7 @@ Actualmente estamos armando cajas para intubacion para el ISSTE Queretaro y el H
 
 ## Archivos DXF para descargar
 
-Para guardar el archivo hacer click derecho -> guardar enlace como 
+Para guardar el archivo haz click derecho -> guardar enlace como 
 
 
 
