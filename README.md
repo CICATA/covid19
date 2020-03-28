@@ -1,5 +1,6 @@
-# Equipo Médico de Protección Personal 
 # [Instituto Politécnico Nacional](https://www.ipn.mx/) ([CICATA Querétaro](https://www.cicataqro.ipn.mx/cq/qro/Paginas/index.html)) 
+
+# Equipo Médico de Protección Personal 
 
 ![logo](https://github.com/CICATA/covid19/blob/master/ipn.png)
 
@@ -57,8 +58,21 @@ Para usar la cortadora láser se requiere el programa smartcarve, en el que se c
 ![cortadora](https://github.com/CICATA/covid19/blob/master/cortadora.jpg)
 
 
+# Participantes
+Este trabajo ha sido fruto del esfuerzo colaborativo de muchas personas voluntarias. Entre ellas se encuentran:
 
-Este trabajo ha sido fruto del esfuerzo colaborativo de muchas personas voluntarias. Agradecemos a quienes con sus ideas nos han antecedido. Nuestra expectativa es que nuestra contribución sean de utilidad. 
+
+Mayra Candido
+Israel Cruz 
+Othón González
+Raúl Hernández
+Regina Hernández
+David Medina
+Maria Ivone Paniagua
+Dagoberto Pulido
+Joaquín Salas
+
+Agradecemos a quienes con sus ideas nos han antecedido. Nuestra expectativa es que nuestra contribución sean de utilidad. 
 
 Para mayor información: 
 
