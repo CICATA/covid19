@@ -23,5 +23,6 @@ Para guardar el archivo hacer click derecho -> guardar enlace como
 
 
 
+##Caja terminada
 
-
+![ensamblada](https://github.com/CICATA/covid19/blob/master/terminada.jpg)
