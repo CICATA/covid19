@@ -1,4 +1,7 @@
-# Equipo medico de proteccion personal desarrollado en el [Instituto Politecnico Nacional](https://www.ipn.mx/) ([CICATA Queretaro](https://www.cicataqro.ipn.mx/cq/qro/Paginas/index.html))
+# Equipo medico de proteccion personal desarrollado en el [Instituto Politecnico Nacional](https://www.ipn.mx/) ([CICATA Queretaro](https://www.cicataqro.ipn.mx/cq/qro/Paginas/index.html)) 
+
+![logo](https://github.com/CICATA/covid19/blob/master/ipn.png)
+
 
 
 Contamos con las siguientes maquinas, que estamos usando para manufactura de equipo medico:
