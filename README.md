@@ -7,9 +7,13 @@ Contamos con las siguientes maquinas para manufactura de equipo medico
 + Impresora 3D
 + Fresadora CNC
 
+
 Actualmente estamos armando cajas para intubacion para el ISSTE Queretaro y el Hospital del Nino y la Mujer
 
 ## Links
+
+Para guardar el archivo hacer clock derecho -> guardar link como
+
 [Caja protectora para intubacion tamanyo adulto](https://github.com/CICATA/covid19/raw/master/caja_covid_rampa_adulto.dxf)
 
 
