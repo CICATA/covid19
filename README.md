@@ -26,7 +26,7 @@ Para descargar los archivos haz click derecho -> guardar enlace como
 
 + Acrilico de 3mm de grosor
 + Pegamento para acrilico
-+ Geringas para aplicar pegamento
++ Geringas para aplicar el pegamento, recomendamos usar las mas delgadas posibles, las de insulina son las mejores
 + Perfil de acrilico para las esquinas
 
 ### Ensamblaje
