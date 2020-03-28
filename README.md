@@ -1,8 +1,9 @@
-# [Instituto Politécnico Nacional](https://www.ipn.mx/) ([CICATA Querétaro](https://www.cicataqro.ipn.mx/cq/qro/Paginas/index.html)) 
-
+# [Instituto Politécnico Nacional](https://www.ipn.mx/)
+# [CICATA Querétaro](https://www.cicataqro.ipn.mx/cq/qro/Paginas/index.html) 
+![logo](https://github.com/CICATA/covid19/blob/master/ipn.png)
 # Equipo Médico de Protección Personal 
 
-![logo](https://github.com/CICATA/covid19/blob/master/ipn.png)
+
 
 Las operaciones de intubación están poniendo en riesgo a los prestadores de servicios de salud, incluyendo profesionistas de la medicina y de la enfermería. Por ello es importante proveerles de equipo de protección personal (EPP) que les permita seguir realizando su labor. Inspirados en varios diseños previos y con la ayuda de médicos de hospitales de Querétaro, México, hemos desarrollado los siguientes diseños.
 
@@ -62,15 +63,15 @@ Para usar la cortadora láser se requiere el programa smartcarve, en el que se c
 Este trabajo ha sido fruto del esfuerzo colaborativo de muchas personas voluntarias. Entre ellas se encuentran:
 
 
-Mayra Candido
-Israel Cruz 
-Othón González
-Raúl Hernández
-Regina Hernández
-David Medina
-Maria Ivone Paniagua
-Dagoberto Pulido
-Joaquín Salas
+Mayra Candido<br/>
+Israel Cruz <br/>
+Othón González<br/>
+Raúl Hernández<br/>
+Regina Hernández<br/>
+David Medina<br/>
+Maria Ivone Paniagua<br/>
+Dagoberto Pulido<br/>
+Joaquín Salas<br/>
 
 Agradecemos a quienes con sus ideas nos han antecedido. Nuestra expectativa es que nuestra contribución sean de utilidad. 
 
