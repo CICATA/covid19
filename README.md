@@ -37,11 +37,14 @@ Primero recortamos las piezas de acrilico utilizando una cortadora laser, poster
 
 ![ensamblada](https://github.com/CICATA/covid19/blob/master/esquinas.jpg)
 
-## Sanitizacion y embalaje
+### Sanitizacion y embalaje (pendiente por documentar)
 
 
 
-### Uso de la cortadora laser
+# Uso de la cortadora laser
+
+El Centro de Investigacion en Ciencia Aplicada y Tecnologia Avanzada del IPN en Queretaro cuenta con diversas maquinas que estan disponibles para el uso de la comunidad con fines de manufactura de equipo medico
+
 
 Para usar la cortadora laser se requiere el programa smartcarve, en el que se cargan los archivos que pueden ser en formatos como DXF
 
