@@ -10,9 +10,9 @@ Contamos con las siguientes maquinas para manufactura de equipo medico
 
 Actualmente estamos armando cajas para intubacion para el ISSTE Queretaro y el Hospital del Nino y la Mujer
 
-## Links
+## Archivos DXF para descargar
 
-Para guardar el archivo hacer click derecho -> guardar enlace como
+Para guardar el archivo hacer click derecho -> guardar enlace como 
 
 
 
