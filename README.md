@@ -65,4 +65,5 @@ Para mayor información:
 Instituto Politécnico Nacional<br/>
 Cerro Blanco 141, Colinas del Cimatario<br/> 
 Querétaro, 76090, México<br/>
-Joaquín Salas, jsalasr@ipn.mx o salas@ieee.org<br/>
+jsalasr@ipn.mx o salas@ieee.org<br/>
+Joaquín Salas
