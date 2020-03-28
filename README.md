@@ -25,3 +25,11 @@ Para guardar el archivo hacer click derecho -> guardar enlace como
 ## Caja ensamblada
 
 ![ensamblada](https://github.com/CICATA/covid19/blob/master/terminada.jpg)
+
+## Ensamblaje
+
+Para usar el equipo usamos pegamento para acrilico y en las uniones colocamos perfil para reforzar
+
+![ensamblada](https://github.com/CICATA/covid19/blob/master/esquinas.jpg)
+
+
