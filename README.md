@@ -1,11 +1,11 @@
 # Equipo medico de proteccion personal desarrollado en el [Instituto Politecnico Nacional](https://www.ipn.mx/) ([CICATA Queretaro](https://www.cicataqro.ipn.mx/cq/qro/Paginas/index.html))
 
 
-Contamos con las siguientes maquinas que estamos usando para manufactura de equipo medico
+Contamos con las siguientes maquinas, que estamos usando para manufactura de equipo medico:
 
-+ Cortadora Laser
-+ Impresora 3D
-+ Fresadora CNC
++ Cortadora Laser,
++ Impresora 3D,
++ Fresadora CNC.
 
 ## Pantallas protectoras para intubacion
 
