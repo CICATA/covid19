@@ -3,7 +3,7 @@
 
 ![logo](https://github.com/CICATA/covid19/blob/master/ipn.png)
 
-Las operaciones de intubación están poniendo en riesgo a los prestadores de servicios de salud, incluyendo médic@s y enfermer@s. Por ello es importante proveerles de equipo de protección personal (EPP) que les permita seguir realizando su labor. Inspirados en varios diseños previos y con la ayuda de médicos de hospitales de Querétaro, México hemos desarrollado los siguientes diseños.
+Las operaciones de intubación están poniendo en riesgo a los prestadores de servicios de salud, incluyendo médic@s y enfermer@s. Por ello es importante proveerles de equipo de protección personal (EPP) que les permita seguir realizando su labor. Inspirados en varios diseños previos y con la ayuda de médicos de hospitales de Querétaro, México, hemos desarrollado los siguientes diseños.
 
 ## Pantallas Protectoras para Intubación (aerosol-box)
 
@@ -23,40 +23,47 @@ Para descargar los archivos haz click derecho -> guardar enlace como
 
 ### Materiales
 
-+ Acrilico de 3mm de grosor
-+ Pegamento para acrilico
-+ Geringas para aplicar el pegamento, recomendamos usar las mas delgadas posibles, las de insulina son las mejores
-+ Perfil cuadrado de acrilico para las esquinas
++ Acrílico de 3mm de grosor
++ Pegamento para acrílico
++ Jeringas para aplicar el pegamento, recomendamos usar las más delgadas posibles, las de insulina son las mejores
++ Perfil cuadrado de acrílico para las uniones
 
 ### Ensamblaje
 
-Primero recortamos las piezas de acrilico utilizando una cortadora laser, posteriormente las unimos aplicando pegamento par acrilico con una jeringa y colocamos perfil de acrilico en las esquinas para reforzar
+Primero recortamos las piezas de acrílico utilizando una cortadora láser. Posteriormente, las unimos aplicando pegamento para acrílico con una jeringa. Finalmente, colocamos perfil de acrílico en las esquinas para reforzar.
 
 ![ensamblada](https://github.com/CICATA/covid19/blob/master/terminada.jpg)
 
 ![ensamblada](https://github.com/CICATA/covid19/blob/master/esquinas.jpg)
 
-### Sanitizacion y embalaje (pendiente por documentar)
+### Sanitizacion y embalaje
 
-Para desinfectar las pantallas protectoras utilizamos Jabon Alcazyme y Alcacide
+Para desinfectar las pantallas protectoras utilizamos jabón Alcazyme y Alcacide
 
 ![Alcacide](https://github.com/CICATA/covid19/blob/master/Alcacide.jpeg)
 ![Alkazyme](https://github.com/CICATA/covid19/blob/master/Alkazyme.jpeg)
 
-# Uso de la cortadora láser
+# Uso de la Cortadora Láser
 
-El Centro de Investigacion en Ciencia Aplicada y Tecnologia Avanzada del IPN en Queretaro cuenta con las siguientes maquinas, que estamos usando para manufactura de equipo medico:
+El CICATA (Centro de Investigacion en Ciencia Aplicada y Tecnologia Avanzada)  Queretaro del IPN cuenta con las siguientes máquinas, que estamos usando para manufactura de equipo médico:
 
 + Cortadora Laser,
 + Impresora 3D (el uso de PLA no esta recomendado por su porosidad),
-+ Fresadora CNC (Actualmenbte no tenemos personal que opere la maquina por lo que gente que sepa usarla es bienvenida).
++ Fresadora CNC.
 
 
-Para usar la cortadora laser se requiere el programa smartcarve, en el que se cargan los archivos que pueden ser en formatos como DXF
+Para usar la cortadora láser se requiere el programa smartcarve, en el que se cargan los archivos que pueden ser en formatos como DXF
 
 ![cortadora](https://github.com/CICATA/covid19/blob/master/cortadora.jpg)
 
 
 
-Este trabajo ha sido fruto del esfuerzo colaborativo de muchas personas. Nuestra expectativa es que sean de la mayor utilidad. 
-Para mayor información: jsalasr@ipn.mx
+Este trabajo ha sido fruto del esfuerzo colaborativo de muchas personas voluntarias. Agradecemos a quienes con sus ideas nos han antecedido. Nuestra expectativa es que nuestra contribución sean de utilidad. 
+
+Para mayor información: 
+
+Instituto Politécnico Nacional<br/>
+Cerro Blanco 141, Colinas del Cimatario<br/> 
+Querétaro, 76090, México<br/>
+jsalasr@ipn.mx o salas@ieee.org<br/>
+Joaquín Salas
