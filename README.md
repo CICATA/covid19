@@ -22,7 +22,6 @@ Para guardar el archivo hacer click derecho -> guardar enlace como
 [Caja protectora para intubacion tamanyo infantil](https://github.com/CICATA/covid19/raw/master/caja_covid_rampa_infantil.dxf)
 
 
-
-##Caja terminada
+## Caja ensamblada
 
 ![ensamblada](https://github.com/CICATA/covid19/blob/master/terminada.jpg)
