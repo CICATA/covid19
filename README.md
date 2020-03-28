@@ -27,7 +27,7 @@ Para descargar los archivos haz click derecho -> guardar enlace como
 + Acrilico de 3mm de grosor
 + Pegamento para acrilico
 + Geringas para aplicar el pegamento, recomendamos usar las mas delgadas posibles, las de insulina son las mejores
-+ Perfil de acrilico para las esquinas
++ Perfil cuadrado de acrilico para las esquinas
 
 ### Ensamblaje
 
@@ -36,6 +36,10 @@ Primero recortamos las piezas de acrilico utilizando una cortadora laser, poster
 ![ensamblada](https://github.com/CICATA/covid19/blob/master/terminada.jpg)
 
 ![ensamblada](https://github.com/CICATA/covid19/blob/master/esquinas.jpg)
+
+## Sanitizacion y embalaje
+
+
 
 ### Uso de la cortadora laser
 
