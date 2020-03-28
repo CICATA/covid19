@@ -34,7 +34,7 @@ Primero recortamos las piezas de acrilico utilizando una cortadora laser, poster
 
 ![ensamblada](https://github.com/CICATA/covid19/blob/master/esquinas.jpg)
 
-### Sanitizacion y embalaje (pendiente por documentar)
+### Sanitizacion y embalaje
 
 Para desinfectar las pantallas protectoras utilizamos Jabon Alcazyme y Alcacide
 
