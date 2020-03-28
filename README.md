@@ -29,13 +29,11 @@ Para guardar el archivo haz click derecho -> guardar enlace como
 + Geringas para aplicar pegamento
 + Perfil de acrilico para las esquinas
 
-### Caja ensamblada
-
-![ensamblada](https://github.com/CICATA/covid19/blob/master/terminada.jpg)
-
-### Ensamblaje de las pantallas protectoras
+### Ensamblaje
 
 Para usar el equipo usamos pegamento para acrilico y en las uniones colocamos perfil de acrilico para reforzar
+
+![ensamblada](https://github.com/CICATA/covid19/blob/master/terminada.jpg)
 
 ![ensamblada](https://github.com/CICATA/covid19/blob/master/esquinas.jpg)
 
