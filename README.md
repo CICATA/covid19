@@ -61,7 +61,8 @@ Para usar la cortadora láser se requiere el programa smartcarve, en el que se c
 Este trabajo ha sido fruto del esfuerzo colaborativo de muchas personas voluntarias. Agradecemos a quienes con sus ideas nos han antecedido. Nuestra expectativa es que nuestra contribución sean de utilidad. 
 
 Para mayor información: 
-Instituto Politécnico Nacional
-Cerro Blanco 141, Colinas del Cimatario, 
-Querétaro, 76090, México
-Joaquín Salas, jsalasr@ipn.mx o salas@ieee.org
+
+Instituto Politécnico Nacional<br/>
+Cerro Blanco 141, Colinas del Cimatario<br/> 
+Querétaro, 76090, México<br/>
+Joaquín Salas, jsalasr@ipn.mx o salas@ieee.org<br/>
