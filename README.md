@@ -13,7 +13,7 @@ Contamos con las siguientes maquinas, que estamos usando para manufactura de equ
 
 ### Archivos DXF para descargar
 
-Para guardar el archivo haz click derecho -> guardar enlace como 
+Para descargar los archivos haz click derecho -> guardar enlace como 
 
 
 
@@ -25,7 +25,7 @@ Para guardar el archivo haz click derecho -> guardar enlace como
 ### Materiales
 
 + Acrilico de 3mm de grosor
-+ Pegamento par acrilico
++ Pegamento para acrilico
 + Geringas para aplicar pegamento
 + Perfil de acrilico para las esquinas
 
