@@ -32,7 +32,7 @@ Para usar el equipo usamos pegamento para acrilico y en las uniones colocamos pe
 
 ![ensamblada](https://github.com/CICATA/covid19/blob/master/esquinas.jpg)
 
-##Uso de la cortadora laser de CICATA
+## Uso de la cortadora laser de CICATA
 
 Para usar la cortadora laser se requiere el programa smartcarve, en el que se cargan los archivos que pueden ser en formatos como DXF
 
