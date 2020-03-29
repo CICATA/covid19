@@ -1,6 +1,7 @@
 # [Instituto Politécnico Nacional](https://www.ipn.mx/)   ![logo](https://github.com/CICATA/covid19/blob/master/ipn.png)
 # [CICATA Querétaro](https://www.cicataqro.ipn.mx/cq/qro/Paginas/index.html)
 
+ [Regresar a la pagina principal](https://github.com/CICATA/covid19/blob/master/README.md)
 
 
 # Equipo Médico de Protección Personal 
@@ -78,6 +79,9 @@ Para desinfectar las pantallas protectoras utilizamos jabón Alcazyme y Alcacide
 
 <img src="https://github.com/CICATA/covid19/blob/master/Alcacide.jpeg" width="50%">
 <img src="https://github.com/CICATA/covid19/blob/master/Alkazyme.jpeg" width="50%">
+
+ [Regresar a la pagina principal](https://github.com/CICATA/covid19/blob/master/README.md)
+
 
 # Uso de la Cortadora Láser
 
