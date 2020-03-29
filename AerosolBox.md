@@ -35,8 +35,6 @@ Primero recortamos las piezas de acrílico utilizando una cortadora láser. Post
 <img src="https://github.com/CICATA/covid19/blob/master/esquinas.jpg" width="80%">
 
 
- [Regresar a la pagina principal](https://github.com/CICATA/covid19/blob/master/README.md)
-
 ### Sanitizacion y embalaje
 
 Para desinfectar las pantallas protectoras utilizamos jabón Alcazyme y Alcacide
@@ -44,6 +42,7 @@ Para desinfectar las pantallas protectoras utilizamos jabón Alcazyme y Alcacide
 <img src="https://github.com/CICATA/covid19/blob/master/Alcacide.jpeg" width="50%">
 <img src="https://github.com/CICATA/covid19/blob/master/Alkazyme.jpeg" width="50%">
 
+ [Regresar a la pagina principal](https://github.com/CICATA/covid19/blob/master/README.md)
 
 # Uso de la Cortadora Láser
 
