@@ -22,7 +22,7 @@ Para descargar los archivos haz click derecho -> guardar enlace como
 
 ### Materiales
 
-+ PETG de 0.5 mm de grosor
++ Lamina de PETG de 0.5 mm de grosor de 120x240cm
 + Cortadora laser
 
 ### Ensamblaje
