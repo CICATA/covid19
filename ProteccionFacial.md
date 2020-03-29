@@ -26,9 +26,15 @@ Para descargar los archivos haz click derecho -> guardar enlace como
 
 ### Ensamblaje
 
-Primero recortamos las piezas de acrílico utilizando una cortadora láser.
-
-El usuario debe ensamblar laPosteriormente, ensamblamos la correa en la careta. Finalmente, colocamos perfil de acrílico en las esquinas para reforzar.
+Una vez cortadas las piezas, realizamos los siguientes pasos:
+1. Encajar dos lenguetas de la banda peqieña en 2 orificios centrales de la careta.
+![primero](https://github.com/CICATA/covid19/blob/master/armadoMascara1.jpeg)
+2. Hacer lo mismo del otro lado. La careta tomará su forma característica
+![primero](https://github.com/CICATA/covid19/blob/master/armadoMascara2.jpeg)
+3. Insertar las 2 lenguetas de uno de los extremos de la banda larga en los 2 orificios de uno de los extremos de la careta.
+![primero](https://github.com/CICATA/covid19/blob/master/armadoMascara3.jpeg)
+4. Con 2 de las lenguetas del otro extremo de la banda grande, ajustar según al usuario mejor le ajuste.
+![primero](https://github.com/CICATA/covid19/blob/master/armadoMascara4.jpeg)
 
 ### Sanitizacion y embalaje
 
