@@ -22,13 +22,13 @@ Para descargar los archivos haz click derecho -> guardar enlace como
 
 ### Materiales
 
-+ Lamina de PETG de 0.5 mm de grosor de 120x240cm
++ Lamina de PET-G calibre 20 (0.5 mm) de 120x240cm
 + Cortadora laser
 
 ### Corte laser
 + Usamos una maquina para corte laser modelo CFL-CMA1325, con potencia de 130W
-+ Potencia al 60% 
-+ Velocidad de avance de 15mm/s
++ Potencia del laser: 60% 
++ Velocidad de corte: 15mm/s
 ### Ensamblaje
 
 ![frente](https://github.com/CICATA/covid19/blob/master/muestraFrente.jpg)
