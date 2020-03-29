@@ -25,7 +25,13 @@ Para descargar los archivos haz click derecho -> guardar enlace como
 + Lamina de PETG de 0.5 mm de grosor de 120x240cm
 + Cortadora laser
 
+### Corte laser
++ Usamos una maquina para corte laser modelo CFL-CMA1325, con potencia de 130W
++ Potencia al 60% 
++ Velocidad de avance de 15mm/s
 ### Ensamblaje
+
+![frente](https://github.com/CICATA/covid19/blob/master/muestraFrente.jpg)
 
 Una vez cortadas las piezas, realizamos los siguientes pasos:
 1. Encajar dos lenguetas de la banda peqieña en 2 orificios centrales de la careta.
@@ -36,6 +42,12 @@ Una vez cortadas las piezas, realizamos los siguientes pasos:
 ![primero](https://github.com/CICATA/covid19/blob/master/armadoMascara3.jpeg)
 4. Con 2 de las lenguetas del otro extremo de la banda grande, ajustar según al usuario mejor le ajuste.
 ![primero](https://github.com/CICATA/covid19/blob/master/armadoMascara4.jpeg)
+
+
+![frente](https://github.com/CICATA/covid19/blob/master/protectorFacial.jpg)
+
+
+![frente](https://github.com/CICATA/covid19/blob/master/muestraTrasero.jpg)
 
 ### Sanitizacion y embalaje
 
