@@ -11,39 +11,17 @@ Las operaciones de intubación están poniendo en riesgo a las personas que pres
 
 Inspirados en la creación del Dr. Hsien Yung Lai, del Mennonite Christian Hospital, Hua Lian, Taiwan, y en colaboración con médicos de la localidad, construimos una pantalla que protege durante las operaciones de intubación, cuando la reacción natural de un paciente es sacar de su garganta el tubo que se le está insertando. El esfuerzo que realiza el paciente va acompañado de saliva, la cual tiene el potencial de quedar prendido a las porciones de piel expuesta de quienes están a su alrededror o a los instrumentos médicos que ellos utilizan.
 
+[Ver proyecto](https://github.com/CICATA/covid19/blob/master/AerosolBox.md) 
 
-### Archivos DXF para descargar
+![aerosolBOx](https://github.com/CICATA/covid19/blob/master/terminada.jpg)
 
-Para descargar los archivos haz click derecho -> guardar enlace como 
+## Máscaras de Protección Facial
 
+Inspirados en los diseños de [escudocovid19.org](https://escudocovid19.org/), construimos una máscara que protege el rostro del personal médico. El esfuerzo que realiza el paciente va acompañado de saliva, la cual tiene el potencial de quedar prendido a las porciones de piel expuesta de quienes están a su alrededror o a los instrumentos médicos que ellos utilizan.
 
+[Ver proyecto](https://github.com/CICATA/covid19/blob/master/ProteccionFacial.md) 
 
-[Caja protectora para intubacion adulto](https://github.com/CICATA/covid19/raw/master/caja_covid_rampa_adulto.dxf)
-
-
-[Caja protectora para intubacion infantil](https://github.com/CICATA/covid19/raw/master/caja_covid_rampa_infantil.dxf)
-
-### Materiales
-
-+ Acrílico de 3mm de grosor
-+ Pegamento para acrílico
-+ Jeringas para aplicar el pegamento, recomendamos usar las más delgadas posibles, las de insulina son las mejores
-+ Perfil cuadrado de acrílico para las uniones
-
-### Ensamblaje
-
-Primero recortamos las piezas de acrílico utilizando una cortadora láser. Posteriormente, las unimos aplicando pegamento para acrílico con una jeringa. Finalmente, colocamos perfil de acrílico en las esquinas para reforzar.
-
-![ensamblada](https://github.com/CICATA/covid19/blob/master/terminada.jpg)
-
-![ensamblada](https://github.com/CICATA/covid19/blob/master/esquinas.jpg)
-
-### Sanitizacion y embalaje
-
-Para desinfectar las pantallas protectoras utilizamos jabón Alcazyme y Alcacide
-
-![Alcacide](https://github.com/CICATA/covid19/blob/master/Alcacide.jpeg)
-![Alkazyme](https://github.com/CICATA/covid19/blob/master/Alkazyme.jpeg)
+![frente](https://github.com/CICATA/covid19/blob/master/muestraFrente.jpg)
 
 # Uso de la Cortadora Láser
 
