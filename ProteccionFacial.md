@@ -1,4 +1,4 @@
-#(Documento en proceso)
+# (Documento en proceso)
 
 # Equipo Médico de Protección Personal 
 # [Instituto Politécnico Nacional](https://www.ipn.mx/) ([CICATA Querétaro](https://www.cicataqro.ipn.mx/cq/qro/Paginas/index.html)) 
