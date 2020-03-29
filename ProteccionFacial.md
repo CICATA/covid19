@@ -15,7 +15,12 @@ Las operaciones de intubación están poniendo en riesgo a los prestadores de se
 Para descargar los archivos haz click derecho -> guardar enlace como 
 
 
-[MAscara protectora]()
+[Careta](https://raw.githubusercontent.com/CICATA/covid19/master/careta.DXF)
+
+[Correa](https://raw.githubusercontent.com/CICATA/covid19/master/correa.DXF)
+
+[Banda](https://raw.githubusercontent.com/CICATA/covid19/master/banda.DXF)
+
 
 
 
