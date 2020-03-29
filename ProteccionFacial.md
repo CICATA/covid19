@@ -20,7 +20,9 @@ Para descargar los archivos haz click derecho -> guardar enlace como
 
 [Descargar DXF - Proteccion facial](https://raw.githubusercontent.com/CICATA/covid19/master/careta_completa.dxf)
 
-<a href="https://raw.githubusercontent.com/CICATA/covid19/master/careta_completa.dxf" target="_blank" download="careta_completa.dxf">Descargar DXF - Proteccion facial</a>
+<a href="https://raw.githubusercontent.com/CICATA/covid19/master/careta_completa.dxf" target="_blank" download="careta_completa.dxf" download>Descargar DXF - Proteccion facial</a>
+
+<a href="javascript:void(0);" onclick="document.execCommand('SaveAs',true,'some.xml');">Save this page</a> 
 
 ### Materiales
 
