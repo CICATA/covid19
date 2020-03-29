@@ -11,12 +11,11 @@ Inspirados en la creación del Dr. Hsien Yung Lai, del Mennonite Christian Hospi
 
 Para descargar los archivos haz click derecho -> guardar enlace como 
 
+[Descargar DXF - Caja protectora para intubacion adulto](https://github.com/CICATA/covid19/raw/master/caja_covid_rampa_adulto.dxf)
 
 
-[Caja protectora para intubacion adulto](https://github.com/CICATA/covid19/raw/master/caja_covid_rampa_adulto.dxf)
+[Descargar DXF - Caja protectora para intubacion infantil](https://github.com/CICATA/covid19/raw/master/caja_covid_rampa_infantil.dxf)
 
-
-[Caja protectora para intubacion infantil](https://github.com/CICATA/covid19/raw/master/caja_covid_rampa_infantil.dxf)
 
 ### Materiales
 
@@ -33,6 +32,8 @@ Primero recortamos las piezas de acrílico utilizando una cortadora láser. Post
 
 <img src="https://github.com/CICATA/covid19/blob/master/esquinas.jpg" width="80%">
 
+
+ [Regresar a la pagina principal](https://github.com/CICATA/covid19/blob/master/README.md)
 
 ### Sanitizacion y embalaje
 
