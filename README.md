@@ -11,14 +11,14 @@ Las operaciones de intubación están poniendo en riesgo a las personas que pres
 
 [Ver instrucciones y descargar archivos](https://github.com/CICATA/covid19/blob/master/AerosolBox.md) 
 
-![aerosolBOx](https://github.com/CICATA/covid19/blob/master/terminada.jpg)
+![aerosolBox](https://github.com/CICATA/covid19/blob/master/terminada.jpg|width=200)
 
 ## Máscaras de Protección Facial
 
 
 [Ver instrucciones y descargar archivos](https://github.com/CICATA/covid19/blob/master/ProteccionFacial.md) 
 
-![frente](https://github.com/CICATA/covid19/blob/master/muestraFrente.jpg)
+![frente](https://github.com/CICATA/covid19/blob/master/muestraFrente.jpg|width=200)
 
 # Uso de la Cortadora Láser
 
