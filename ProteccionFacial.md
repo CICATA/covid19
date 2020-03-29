@@ -19,8 +19,6 @@ Para descargar los archivos haz click derecho -> guardar enlace como
 
 
 
-
-
 ### Materiales
 
 + PETG de 0.5 mm de grosor
@@ -28,7 +26,9 @@ Para descargar los archivos haz click derecho -> guardar enlace como
 
 ### Ensamblaje
 
-Primero recortamos las piezas de PETG
+Primero recortamos las piezas de acrílico utilizando una cortadora láser.
+
+El usuario debe ensamblar laPosteriormente, ensamblamos la correa en la careta. Finalmente, colocamos perfil de acrílico en las esquinas para reforzar.
 
 ### Sanitizacion y embalaje
 
@@ -51,8 +51,22 @@ Para usar la cortadora láser se requiere el programa smartcarve, en el que se c
 ![cortadora](https://github.com/CICATA/covid19/blob/master/cortadora.jpg)
 
 
+# Participantes
+Este trabajo ha sido fruto del esfuerzo colaborativo de muchas personas voluntarias. Entre ellas se encuentran:
 
-Este trabajo ha sido fruto del esfuerzo colaborativo de muchas personas voluntarias. Agradecemos a quienes con sus ideas nos han antecedido. Nuestra expectativa es que nuestra contribución sean de utilidad. 
+
+Mayra Candido<br/>
+Israel Cruz <br/>
+Othón González<br/>
+Raúl Hernández<br/>
+Regina Hernández<br/>
+David Medina<br/>
+Juan Alejandro Pulido<br/>
+Maria Ivone Paniagua<br/>
+Dagoberto Pulido<br/>
+Joaquín Salas<br/>
+
+Agradecemos a quienes con sus ideas nos han antecedido. Nuestra expectativa es que nuestra contribución sean de utilidad. 
 
 Para mayor información: 
 
