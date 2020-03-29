@@ -66,9 +66,9 @@ Una vez cortadas las piezas, realizamos los siguientes pasos:
 <img src="https://github.com/CICATA/covid19/blob/master/armadoMascara4.jpeg" width="80%">
 
 
-<img src="https://github.com/CICATA/covid19/blob/master/protectorFacial.jpeg" width="80%">
+<img src="https://github.com/CICATA/covid19/blob/master/protectorFacial.jpg" width="80%">
 
-<img src="https://github.com/CICATA/covid19/blob/master/muestraTrasero.jpeg" width="80%">
+<img src="https://github.com/CICATA/covid19/blob/master/muestraTrasero.jpg" width="80%">
 
 
 
