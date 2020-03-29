@@ -76,8 +76,8 @@ Una vez cortadas las piezas, realizamos los siguientes pasos:
 
 Para desinfectar las pantallas protectoras utilizamos jabón Alcazyme y Alcacide
 
-<img src="https://github.com/CICATA/covid19/blob/master/Alcacide.jpeg" width="80%">
-<img src="https://github.com/CICATA/covid19/blob/master/Alkazyme.jpeg" width="80%">
+<img src="https://github.com/CICATA/covid19/blob/master/Alcacide.jpeg" width="50%">
+<img src="https://github.com/CICATA/covid19/blob/master/Alkazyme.jpeg" width="50%">
 
 # Uso de la Cortadora Láser
 
