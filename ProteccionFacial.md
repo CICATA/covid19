@@ -31,7 +31,7 @@ Para descargar los archivos haz click derecho -> guardar enlace como
 + Potencia del láser: 60% 
 + Velocidad de corte: 15mm/s
 
-### Ensamblaje
+### Ensamble
 
 Tiempo de ensamblado: Aproximadamente tres minutos.
 La careta se compone de tres piezas: La cobertura facial, el cintillo frontal (la banda corta), y el cintillo trasero (la banda larga).
