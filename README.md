@@ -7,18 +7,10 @@
 
 Las operaciones de intubación están poniendo en riesgo a las personas que prestan servicios de salud, incluyendo profesionistas de la medicina y de la enfermería. Por ello es importante proveerles de equipo de protección personal (EPP) que les permita seguir realizando su labor. Inspirados en varios diseños previos y con la ayuda de médicos de hospitales de Querétaro, México, hemos desarrollado los siguientes diseños.
 
-## Pantallas Protectoras para Intubación (aerosol-box)
-
-[Ver instrucciones y descargar archivos](https://github.com/CICATA/covid19/blob/master/AerosolBox.md) 
-
-<img src="https://github.com/CICATA/covid19/blob/master/terminada.jpg" width="200">
-
-## Máscaras de Protección Facial
-
-
-[Ver instrucciones y descargar archivos](https://github.com/CICATA/covid19/blob/master/ProteccionFacial.md) 
-
-<img src="https://github.com/CICATA/covid19/blob/master/muestraFrente.jpg" width="200">
+| Pantallas Protectoras para Intubación | Proteccion Facial |
+| ------------- | ------------- |
+| [Ver instrucciones y descargar archivos](https://github.com/CICATA/covid19/blob/master/AerosolBox.md) | [Ver instrucciones y descargar archivos](https://github.com/CICATA/covid19/blob/master/ProteccionFacial.md) |
+| <img src="https://github.com/CICATA/covid19/blob/master/terminada.jpg" width="40%">  | <img src="https://github.com/CICATA/covid19/blob/master/muestraFrente.jpg" width="40%">  |
 
 # Uso de la Cortadora Láser
 
