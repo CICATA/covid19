@@ -69,6 +69,7 @@ Othón González<br/>
 Raúl Hernández<br/>
 Regina Hernández<br/>
 David Medina<br/>
+Juan Alejandro Pulido<br/>
 Maria Ivone Paniagua<br/>
 Dagoberto Pulido<br/>
 Joaquín Salas<br/>
