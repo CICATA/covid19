@@ -1,7 +1,7 @@
-# [Instituto Politécnico Nacional](https://www.ipn.mx/) 
+# [Instituto Politécnico Nacional](https://www.ipn.mx/)   ![logo](https://github.com/CICATA/covid19/blob/master/ipn.png)
 # [CICATA Querétaro](https://www.cicataqro.ipn.mx/cq/qro/Paginas/index.html)
 
-![logo](https://github.com/CICATA/covid19/blob/master/ipn.png)
+
 
 # Equipo Médico de Protección Personal 
 
