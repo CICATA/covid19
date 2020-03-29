@@ -29,16 +29,18 @@ Para descargar los archivos haz click derecho -> guardar enlace como
 
 Primero recortamos las piezas de acrílico utilizando una cortadora láser. Posteriormente, las unimos aplicando pegamento para acrílico con una jeringa. Finalmente, colocamos perfil de acrílico en las esquinas para reforzar.
 
-![ensamblada](https://github.com/CICATA/covid19/blob/master/terminada.jpg)
+<img src="https://github.com/CICATA/covid19/blob/master/terminada.jpg" width="80%">
 
-![ensamblada](https://github.com/CICATA/covid19/blob/master/esquinas.jpg)
+<img src="https://github.com/CICATA/covid19/blob/master/esquinas.jpg" width="80%">
+
 
 ### Sanitizacion y embalaje
 
 Para desinfectar las pantallas protectoras utilizamos jabón Alcazyme y Alcacide
 
-![Alcacide](https://github.com/CICATA/covid19/blob/master/Alcacide.jpeg)
-![Alkazyme](https://github.com/CICATA/covid19/blob/master/Alkazyme.jpeg)
+<img src="https://github.com/CICATA/covid19/blob/master/Alcacide.jpeg" width="80%">
+<img src="https://github.com/CICATA/covid19/blob/master/Alkazyme.jpeg" width="80%">
+
 
 # Uso de la Cortadora Láser
 
