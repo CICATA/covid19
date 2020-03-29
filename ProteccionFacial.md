@@ -9,6 +9,7 @@ Las operaciones de intubación están poniendo en riesgo a los prestadores de se
 
 ## Mascaras de proteccion facial
 
+Inspirados en los disenos de [escudo covid 19 org](https://escudocovid19.org/), construimos una mascara que protege el rostro del personal medico. El esfuerzo que realiza el paciente va acompañado de saliva, la cual tiene el potencial de quedar prendido a las porciones de piel expuesta de quienes están a su alrededror o a los instrumentos médicos que ellos utilizan.
 
 ### Archivos DXF para descargar
 
