@@ -40,13 +40,29 @@ La careta se compone de tres piezas: La cobertura facial, el cintillo frontal (l
 ![frente](https://github.com/CICATA/covid19/blob/master/muestraFrente.jpg)
 
 Una vez cortadas las piezas, realizamos los siguientes pasos:
+
+
 1. Encajar dos lenguetas del cintillo frontal (la banda corta) en dos orificios centrales de la cobertura facial. 
+
+
 ![primero](https://github.com/CICATA/covid19/blob/master/armadoMascara1.jpeg)
+
+
 2. Hacer lo mismo del otro lado. La cobertura facial y el cintillo frontal (la banda corta) quedarán unidos. 
+
+
 ![primero](https://github.com/CICATA/covid19/blob/master/armadoMascara2.jpeg)
+
+
 3. Insertar las dos lengüetas de uno de los extremos del cintillo trasero (la banda larga) en los dos orificios de uno de los extremos de la cobertura facial.
+
+
 ![primero](https://github.com/CICATA/covid19/blob/master/armadoMascara3.jpeg)
+
+
 4. Con dos de las lengüetas del otro extremo del cintillo trasero (la banda larga), ajustar a gusto del usuario y según el tamaño de su cabeza. 
+
+
 ![primero](https://github.com/CICATA/covid19/blob/master/armadoMascara4.jpeg)
 
 
