@@ -2,6 +2,8 @@
 # [CICATA Querétaro](https://www.cicataqro.ipn.mx/cq/qro/Paginas/index.html) 
 ![logo](https://github.com/CICATA/covid19/blob/master/ipn.png)
 
+ [Regresar a la pagina principal](https://github.com/CICATA/covid19/blob/master/README.md)
+
 ## Pantallas Protectoras para Intubación (aerosol-box)
 
 Inspirados en la creación del Dr. Hsien Yung Lai, del Mennonite Christian Hospital, Hua Lian, Taiwan, y en colaboración con médicos de la localidad, construimos una pantalla que protege durante las operaciones de intubación, cuando la reacción natural de un paciente es sacar de su garganta el tubo que se le está insertando. El esfuerzo que realiza el paciente va acompañado de saliva, la cual tiene el potencial de quedar prendido a las porciones de piel expuesta de quienes están a su alrededror o a los instrumentos médicos que ellos utilizan.
