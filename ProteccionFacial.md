@@ -1,9 +1,9 @@
-# (Documento en proceso)
-
-# Equipo Médico de Protección Personal 
 # [Instituto Politécnico Nacional](https://www.ipn.mx/) ([CICATA Querétaro](https://www.cicataqro.ipn.mx/cq/qro/Paginas/index.html)) 
 
 ![logo](https://github.com/CICATA/covid19/blob/master/ipn.png)
+
+# Equipo Médico de Protección Personal 
+
 
 Las operaciones de manejo de pacientes están poniendo en riesgo a los prestadores de servicios de salud, incluyendo profesionistas de la medicina y de la enfermería. Por ello es importante proveerles de equipo de protección personal (EPP) que les permita seguir realizando su labor. Inspirados en varios diseños previos y con la ayuda de médicos de hospitales de Querétaro, México, hemos desarrollado los siguientes diseños.
 
