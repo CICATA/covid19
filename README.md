@@ -10,7 +10,9 @@ Las operaciones de intubación están poniendo en riesgo a las personas que pres
 | Pantallas Protectoras para Intubación | Proteccion Facial |
 | ------------- | ------------- |
 | [Ver instrucciones y descargar archivos](https://github.com/CICATA/covid19/blob/master/AerosolBox.md) | [Ver instrucciones y descargar archivos](https://github.com/CICATA/covid19/blob/master/ProteccionFacial.md) |
-| <img src="https://github.com/CICATA/covid19/blob/master/terminada.jpg" width="40%">  | <img src="https://github.com/CICATA/covid19/blob/master/muestraFrente.jpg" width="40%">  |
+| <img src="https://github.com/CICATA/covid19/blob/master/terminada.jpg" width="40%"> <img src="https://github.com/CICATA/covid19/blob/master/esquinas.jpg" width="40%"> | <img src="https://github.com/CICATA/covid19/blob/master/muestraFrente.jpg" width="40%"> <img src="https://github.com/CICATA/covid19/blob/master/muestraTrasero.jpg" width="40%"> |
+
+
 
 # Uso de la Cortadora Láser
 
