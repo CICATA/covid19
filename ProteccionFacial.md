@@ -7,9 +7,9 @@
 
 Las operaciones de manejo de pacientes están poniendo en riesgo a los prestadores de servicios de salud, incluyendo profesionistas de la medicina y de la enfermería. Por ello es importante proveerles de equipo de protección personal (EPP) que les permita seguir realizando su labor. Inspirados en varios diseños previos y con la ayuda de médicos de hospitales de Querétaro, México, hemos desarrollado los siguientes diseños.
 
-## Mascaras de proteccion facial
+## Máscaras de Protección Facial
 
-Inspirados en los disenos de [escudocovid19.org](https://escudocovid19.org/), construimos una mascara que protege el rostro del personal medico. El esfuerzo que realiza el paciente va acompañado de saliva, la cual tiene el potencial de quedar prendido a las porciones de piel expuesta de quienes están a su alrededror o a los instrumentos médicos que ellos utilizan.
+Inspirados en los diseños de [escudocovid19.org](https://escudocovid19.org/), construimos una máscara que protege el rostro del personal médico. El esfuerzo que realiza el paciente va acompañado de saliva, la cual tiene el potencial de quedar prendido a las porciones de piel expuesta de quienes están a su alrededror o a los instrumentos médicos que ellos utilizan.
 
 ### Archivos DXF para descargar
 
@@ -22,25 +22,30 @@ Para descargar los archivos haz click derecho -> guardar enlace como
 
 ### Materiales
 
-+ Lamina de PET-G calibre 20 (0.5 mm) de 120x240cm
-+ Cortadora laser
++ Lámina de PET-G calibre 20 (0.5 mm) de 120 cm x 240 cm
++ Cortadora láser
 
-### Corte laser
-+ Usamos una maquina para corte laser modelo CFL-CMA1325, con potencia de 130W
-+ Potencia del laser: 60% 
+### Corte láser
++ Usamos una máquina para corte láser modelo CFL-CMA1325, con potencia de 130W
++ Potencia del láser: 60% 
 + Velocidad de corte: 15mm/s
+
 ### Ensamblaje
+
+Tiempo de ensamblado: Aproximadamente tres minutos.
+La careta se compone de tres piezas: La cobertura facial, el cintillo frontal (la banda corta), y el cintillo trasero (la banda larga).
+
 
 ![frente](https://github.com/CICATA/covid19/blob/master/muestraFrente.jpg)
 
 Una vez cortadas las piezas, realizamos los siguientes pasos:
-1. Encajar dos lenguetas de la banda peqieña en 2 orificios centrales de la careta.
+1. Encajar dos lenguetas del cintillo frontal (la banda corta) en dos orificios centrales de la cobertura facial. 
 ![primero](https://github.com/CICATA/covid19/blob/master/armadoMascara1.jpeg)
-2. Hacer lo mismo del otro lado. La careta tomará su forma característica
+2. Hacer lo mismo del otro lado. La cobertura facial y el cintillo frontal (la banda corta) quedarán unidos. 
 ![primero](https://github.com/CICATA/covid19/blob/master/armadoMascara2.jpeg)
-3. Insertar las 2 lenguetas de uno de los extremos de la banda larga en los 2 orificios de uno de los extremos de la careta.
+3. Insertar las dos lengüetas de uno de los extremos del cintillo trasero (la banda larga) en los dos orificios de uno de los extremos de la cobertura facial.
 ![primero](https://github.com/CICATA/covid19/blob/master/armadoMascara3.jpeg)
-4. Con 2 de las lenguetas del otro extremo de la banda grande, ajustar según al usuario mejor le ajuste.
+4. Con dos de las lengüetas del otro extremo del cintillo trasero (la banda larga), ajustar a gusto del usuario y según el tamaño de su cabeza. 
 ![primero](https://github.com/CICATA/covid19/blob/master/armadoMascara4.jpeg)
 
 
@@ -58,10 +63,10 @@ Para desinfectar las pantallas protectoras utilizamos jabón Alcazyme y Alcacide
 
 # Uso de la Cortadora Láser
 
-El CICATA (Centro de Investigacion en Ciencia Aplicada y Tecnologia Avanzada)  Queretaro del IPN cuenta con las siguientes máquinas, que estamos usando para manufactura de equipo médico:
+El CICATA (Centro de Investigacion en Ciencia Aplicada y Tecnologia Avanzada)  Querétaro del IPN cuenta con las siguientes máquinas, que estamos usando para manufactura de equipo médico:
 
 + Cortadora Laser,
-+ Impresora 3D (el uso de PLA no esta recomendado por su porosidad),
++ Impresora 3D (el uso de PLA no está recomendado por su porosidad),
 + Fresadora CNC.
 
 
