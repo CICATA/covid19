@@ -21,8 +21,6 @@ Para descargar los archivos haz click derecho -> guardar enlace como
 [Descargar DXF - Proteccion facial](https://raw.githubusercontent.com/CICATA/covid19/master/careta_completa.dxf)
 
 
-<a href="https://raw.githubusercontent.com/CICATA/covid19/master/careta_completa.dxf" download target="_blank">Descargar DXF - Proteccion faciall</a>
-
 ### Materiales
 
 + Lámina de PET-G calibre 20 (0.5 mm) de 120 cm x 240 cm
