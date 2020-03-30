@@ -31,7 +31,8 @@ Para usar la cortadora láser se requiere el programa smartcarve, en el que se c
 # Participantes
 Este trabajo ha sido fruto del esfuerzo colaborativo de muchas personas voluntarias. Entre ellas se encuentran:
 
-
+Daniela Basurto<br/>
+Omar Montoya<br/>
 Mayra Candido<br/>
 Israel Cruz <br/>
 Othón González<br/>
