@@ -13,10 +13,12 @@ Las operaciones de manejo de pacientes están poniendo en riesgo a los prestador
 
 Inspirados en los diseños de [escudocovid19.org](https://escudocovid19.org/), construimos una máscara que protege el rostro del personal médico. El esfuerzo que realiza el paciente va acompañado de saliva, la cual tiene el potencial de quedar prendido a las porciones de piel expuesta de quienes están a su alrededror o a los instrumentos médicos que ellos utilizan.
 
-### Archivos DXF para descargar
-
+### Archivos para descargar
 
 [Descargar DXF - Proteccion facial](https://github.com/CICATA/covid19/releases/download/1.1/careta_completa.dxf)
+
+[Descargar PDF - Proteccion facial](https://github.com/CICATA/covid19/releases/download/1.1/careta_completa.pdf)
+
 
 
 ### Materiales
