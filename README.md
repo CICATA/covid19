@@ -25,8 +25,8 @@ Las operaciones de intubación están poniendo en riesgo a las personas que pres
     <td><img src="https://raw.githubusercontent.com/CICATA/covid19/master/muestraTrasero.jpg" width="200" ></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/CICATA/covid19/releases/download/1.1/fichaTecnicaBox.jpg"><img src="https://github.com/CICATA/covid19/blob/master/fichaTecnicaBox.jpg" width="50%"><a/></td>
-    <td><a href="https://github.com/CICATA/covid19/releases/download/1.1/fichaTecnicaCareta.jpg"><img src="https://github.com/CICATA/covid19/blob/master/fichaTecnicaCareta.jpg" width="50%"></a</td>
+    <td><a href="https://github.com/CICATA/covid19/releases/download/1.1/fichaTecnicaBox.jpg"><img src="https://github.com/CICATA/covid19/blob/master/fichaTecnicaBox.jpg" width="200"><a/></td>
+    <td><a href="https://github.com/CICATA/covid19/releases/download/1.1/fichaTecnicaCareta.jpg"><img src="https://github.com/CICATA/covid19/blob/master/fichaTecnicaCareta.jpg" width="200"></a</td>
   </tr>
 </table>
 
