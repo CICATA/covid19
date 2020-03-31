@@ -7,12 +7,28 @@
 
 Las operaciones de intubación están poniendo en riesgo a las personas que prestan servicios de salud, incluyendo profesionistas de la medicina y de la enfermería. Por ello es importante proveerles de equipo de protección personal (EPP) que les permita seguir realizando su labor. Inspirados en varios diseños previos y con la ayuda de médicos de hospitales de Querétaro, México, hemos desarrollado los siguientes diseños.
 
-| Pantallas Protectoras para Intubación | Protección Facial |
-| ------------- | ------------- |
-| [Ver instrucciones y descargar archivos](https://github.com/CICATA/covid19/blob/master/AerosolBox.md) | [Ver instrucciones y descargar archivos](https://github.com/CICATA/covid19/blob/master/ProteccionFacial.md) |
-| <img src="https://github.com/CICATA/covid19/blob/master/terminada.jpg" width="50%"> <img src="https://github.com/CICATA/covid19/blob/master/esquinas.jpg" width="50%"> | <img src="https://github.com/CICATA/covid19/blob/master/muestraFrente.jpg" width="50%"> <img src="https://github.com/CICATA/covid19/blob/master/muestraTrasero.jpg" width="50%"> |
-|<a href="https://github.com/CICATA/covid19/releases/download/1.1/fichaTecnicaBox.jpg"><img src="https://github.com/CICATA/covid19/blob/master/fichaTecnicaBox.jpg" width="50%"><a/>|<a href="https://github.com/CICATA/covid19/releases/download/1.1/fichaTecnicaCareta.jpg"><img src="https://github.com/CICATA/covid19/blob/master/fichaTecnicaCareta.jpg" width="50%"></a>|
-
+<table>
+  <tr>
+    <th>Pantallas Protectoras para Intubación</th>
+    <th>Protección Facial</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CICATA/covid19/blob/master/AerosolBox.md">Ver instrucciones y descargar archivos</a></td>
+    <td><a href="https://github.com/CICATA/covid19/blob/master/ProteccionFacial.md">Ver instrucciones y descargar archivos</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/CICATA/covid19/master/terminada.jpg" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/CICATA/covid19/master/muestraFrente.jpg" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/CICATA/covid19/master/esquinas.jpg" width="200" ></td>
+    <td><img src="https://raw.githubusercontent.com/CICATA/covid19/master/muestraTrasero.jpg" width="200" ></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CICATA/covid19/releases/download/1.1/fichaTecnicaBox.jpg"><img src="https://github.com/CICATA/covid19/blob/master/fichaTecnicaBox.jpg" width="50%"><a/></td>
+    <td><a href="https://github.com/CICATA/covid19/releases/download/1.1/fichaTecnicaCareta.jpg"><img src="https://github.com/CICATA/covid19/blob/master/fichaTecnicaCareta.jpg" width="50%"></a</td>
+  </tr>
+</table>
 
 
 # Uso de la Cortadora Láser
