@@ -11,7 +11,7 @@ Las operaciones de intubación están poniendo en riesgo a las personas que pres
 | ------------- | ------------- |
 | [Ver instrucciones y descargar archivos](https://github.com/CICATA/covid19/blob/master/AerosolBox.md) | [Ver instrucciones y descargar archivos](https://github.com/CICATA/covid19/blob/master/ProteccionFacial.md) |
 | <img src="https://github.com/CICATA/covid19/blob/master/terminada.jpg" width="50%"> <img src="https://github.com/CICATA/covid19/blob/master/esquinas.jpg" width="50%"> | <img src="https://github.com/CICATA/covid19/blob/master/muestraFrente.jpg" width="50%"> <img src="https://github.com/CICATA/covid19/blob/master/muestraTrasero.jpg" width="50%"> |
-|<img src="https://github.com/CICATA/covid19/blob/master/fichaTecnicaBox.jpg" width="50%">|<img src="https://github.com/CICATA/covid19/blob/master/fichaTecnicaCareta.jpg" width="50%">|
+|<a href="https://github.com/CICATA/covid19/releases/download/1.1/fichaTecnicaBox.jpg"><img src="https://github.com/CICATA/covid19/blob/master/fichaTecnicaBox.jpg" width="50%"><a/>|<a href="https://github.com/CICATA/covid19/releases/download/1.1/fichaTecnicaCareta.jpg"><img src="https://github.com/CICATA/covid19/blob/master/fichaTecnicaCareta.jpg" width="50%"></a>|
 
 
 
