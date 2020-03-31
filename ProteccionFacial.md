@@ -28,6 +28,22 @@ Inspirados en los diseños de [escudocovid19.org](https://escudocovid19.org/), c
   </tr>
 </table>
 
+
+<table>
+  <tr>
+    <th>Archivos para descargar</th>
+    <th>Ficha Tecnica</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CICATA/covid19/releases/download/1.1/careta_completa.dxf">Descargar DXF - Protección facial</a></td>
+    <td rowspan="2"><a href="https://github.com/CICATA/covid19/releases/download/1.1/fichaTecnicaCareta.jpg"><img src="https://github.com/CICATA/covid19/blob/master/fichaTecnicaCareta.jpg" alt="Image" width="200"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CICATA/covid19/releases/download/1.1/careta_completa.pdf">Descargar PDF - Protección facial</a></td>
+  </tr>
+</table>
+
+
 ### Materiales
 
 + Lámina de PET-G calibre 20 (0.5 mm) de 120 cm x 240 cm
