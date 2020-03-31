@@ -15,7 +15,6 @@ Inspirados en los diseños de [escudocovid19.org](https://escudocovid19.org/), c
 
 ### Archivos para descargar
 
-[Descargar DXF - Protección facial](https://github.com/CICATA/covid19/releases/download/1.1/careta_completa.dxf)
 
 <table>
   <tr>
