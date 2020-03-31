@@ -7,26 +7,26 @@
 
 Las operaciones de intubación están poniendo en riesgo a las personas que prestan servicios de salud, incluyendo profesionistas de la medicina y de la enfermería. Por ello es importante proveerles de equipo de protección personal (EPP) que les permita seguir realizando su labor. Inspirados en varios diseños previos y con la ayuda de médicos de hospitales de Querétaro, México, hemos desarrollado los siguientes diseños.
 
-<table>
+<table align="center">
   <tr>
-    <th>Pantallas Protectoras para Intubación</th>
-    <th>Protección Facial</th>
+    <th  align="center">Pantallas Protectoras para Intubación</th>
+    <th  align="center">Protección Facial</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/CICATA/covid19/blob/master/AerosolBox.md">Ver instrucciones y descargar archivos</a></td>
-    <td><a href="https://github.com/CICATA/covid19/blob/master/ProteccionFacial.md">Ver instrucciones y descargar archivos</a></td>
+    <td  align="center"><a href="https://github.com/CICATA/covid19/blob/master/AerosolBox.md">Ver instrucciones y descargar archivos</a></td>
+    <td  align="center"><a href="https://github.com/CICATA/covid19/blob/master/ProteccionFacial.md">Ver instrucciones y descargar archivos</a></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/CICATA/covid19/master/terminada.jpg" width="200"></td>
-    <td><img src="https://raw.githubusercontent.com/CICATA/covid19/master/muestraFrente.jpg" width="200"></td>
+    <td  align="center"><img src="https://raw.githubusercontent.com/CICATA/covid19/master/terminada.jpg" width="200"></td>
+    <td  align="center"><img src="https://raw.githubusercontent.com/CICATA/covid19/master/muestraFrente.jpg" width="200"></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/CICATA/covid19/master/esquinas.jpg" width="200" ></td>
-    <td><img src="https://raw.githubusercontent.com/CICATA/covid19/master/muestraTrasero.jpg" width="200" ></td>
+    <td  align="center"><img src="https://raw.githubusercontent.com/CICATA/covid19/master/esquinas.jpg" width="200" ></td>
+    <td  align="center"><img src="https://raw.githubusercontent.com/CICATA/covid19/master/muestraTrasero.jpg" width="200" ></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/CICATA/covid19/releases/download/1.1/fichaTecnicaBox.jpg"><img src="https://github.com/CICATA/covid19/blob/master/fichaTecnicaBox.jpg" width="200"><a/></td>
-    <td><a href="https://github.com/CICATA/covid19/releases/download/1.1/fichaTecnicaCareta.jpg"><img src="https://github.com/CICATA/covid19/blob/master/fichaTecnicaCareta.jpg" width="200"></a</td>
+    <td  align="center"><a href="https://github.com/CICATA/covid19/releases/download/1.1/fichaTecnicaBox.jpg"><img src="https://github.com/CICATA/covid19/blob/master/fichaTecnicaBox.jpg" width="200"><a/></td>
+    <td  align="center"><a href="https://github.com/CICATA/covid19/releases/download/1.1/fichaTecnicaCareta.jpg"><img src="https://github.com/CICATA/covid19/blob/master/fichaTecnicaCareta.jpg" width="200"></a</td>
   </tr>
 </table>
 
