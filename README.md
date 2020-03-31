@@ -7,6 +7,7 @@
 
 Las operaciones de intubación están poniendo en riesgo a las personas que prestan servicios de salud, incluyendo profesionistas de la medicina y de la enfermería. Por ello es importante proveerles de equipo de protección personal (EPP) que les permita seguir realizando su labor. Inspirados en varios diseños previos y con la ayuda de médicos de hospitales de Querétaro, México, hemos desarrollado los siguientes diseños.
 
+<p align="center">
 <table align="center">
   <tr>
     <th  align="center">Pantallas Protectoras para Intubación</th>
@@ -29,7 +30,7 @@ Las operaciones de intubación están poniendo en riesgo a las personas que pres
     <td  align="center"><a href="https://github.com/CICATA/covid19/releases/download/1.1/fichaTecnicaCareta.jpg"><img src="https://github.com/CICATA/covid19/blob/master/fichaTecnicaCareta.jpg" width="200"></a</td>
   </tr>
 </table>
-
+</p>
 
 # Uso de la Cortadora Láser
 
