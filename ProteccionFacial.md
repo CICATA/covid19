@@ -30,7 +30,7 @@ Inspirados en los diseños de [escudocovid19.org](https://escudocovid19.org/), c
     <td><a href="https://github.com/CICATA/covid19/releases/download/1.1/careta_completa.pdf">Descargar PDF - Protección facial</a></td>
   </tr>
    <tr>
-    <td><a href="https://github.com/CICATA/covid19/releases/download/1.1/20Mascaras.dxf">Descargar DXF - Protección facial 20 piezas por lamina</a></td>
+    <td><a href="https://github.com/CICATA/covid19/releases/download/1.1/20Mascaras.dxf">Descargar DXF - Protección facial 20 piezas por lámina</a></td>
   </tr>
 </table>
 
