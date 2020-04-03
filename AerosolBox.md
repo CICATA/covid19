@@ -12,20 +12,23 @@ Inspirados en la creación del Dr. Hsien Yung Lai, del Mennonite Christian Hospi
 ### Archivos DXF para descargar
 
 
-
 <table>
   <tr>
     <th>Archivos para descargar</th>
     <th>Ficha Tecnica</th>
+    <th>Ensamble</th>
   </tr>
   <tr>
     <td><a href="https://github.com/CICATA/covid19/releases/download/1.1/caja_covid_rampa_adulto.dxf">Descargar DXF - Adulto</a></td>
     <td rowspan="2"><a href="https://github.com/CICATA/covid19/releases/download/1.1/fichaTecnicaBox.jpg"><img src="https://github.com/CICATA/covid19/blob/master/fichaTecnicaBox.jpg" alt="Image" width="200"></a></td>
+    <td rowspan="2"><img src="https://github.com/CICATA/covid19/blob/master/armado.gif" alt="Image" width="200"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CICATA/covid19/releases/download/1.1/caja_covid_rampa_infantil.dxf">Descargar DXF - Infantil</a></td>
   </tr>
 </table>
+
+
 
 ### Materiales
 
