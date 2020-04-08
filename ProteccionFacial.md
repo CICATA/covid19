@@ -48,6 +48,8 @@ Inspirados en los diseños de [escudocovid19.org](https://escudocovid19.org/), c
 + Potencia del láser: 60% 
 + Velocidad de corte: 15mm/s
 
+[![](http://img.youtube.com/vi/R63dtGZ1jWs/0.jpg)](http://www.youtube.com/watch?v=R63dtGZ1jWs "Caretas")
+
 ### Ensamble
 
 Tiempo de ensamblado: Aproximadamente tres minutos.
