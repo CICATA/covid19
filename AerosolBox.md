@@ -63,7 +63,7 @@ El CICATA (Centro de Investigacion en Ciencia Aplicada y Tecnologia Avanzada)  Q
 + Impresora 3D (el uso de PLA no esta recomendado por su porosidad),
 + Fresadora CNC.
 
-
+[![](http://img.youtube.com/vi/i8__KcgN6Ok/0.jpg)](http://www.youtube.com/watch?v=i8__KcgN6Ok "Cajas")
 Para usar la cortadora láser se requiere el programa smartcarve, en el que se cargan los archivos que pueden ser en formatos como DXF
 
 ![cortadora](https://github.com/CICATA/covid19/blob/master/cortadora.jpg)
