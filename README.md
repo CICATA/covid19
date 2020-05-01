@@ -5,7 +5,7 @@
 
 
 
-Las operaciones de intubación están poniendo en riesgo a las personas que prestan servicios de salud, incluyendo profesionistas de la medicina y de la enfermería. Por ello es importante proveerles de equipo de protección personal (EPP) que les permita seguir realizando su labor. Inspirados en varios diseños previos y con la ayuda de médicos de hospitales de Querétaro, México, hemos desarrollado los siguientes diseños.
+Las operaciones de intubación están poniendo en riesgo a las personas que prestan servicios de salud, incluyendo profesionistas de la medicina y de la enfermería. Por ello es importante proveerles de equipo de protección personal (EPP) que les permita seguir realizando su labor. Inspirados en varios diseños previos y con la ayuda de médicos de hospitales de Querétaro, México, hemos desarrollado los siguientes diseños.<\br>
 
 <p align="center">
 <table align="center">
@@ -34,7 +34,7 @@ Las operaciones de intubación están poniendo en riesgo a las personas que pres
 
 # Uso de la Cortadora Láser
 
-El CICATA (Centro de Investigacion en Ciencia Aplicada y Tecnologia Avanzada)  Queretaro del IPN cuenta con las siguientes máquinas, que estamos usando para manufactura de equipo médico:
+El CICATA (Centro de Investigacion en Ciencia Aplicada y Tecnologia Avanzada)  Querétaro del IPN cuenta con las siguientes máquinas, que estamos usando para manufactura de equipo médico:
 
 + Cortadora Laser,
 + Impresora 3D (el uso de PLA no esta recomendado por su porosidad),
