@@ -9,12 +9,6 @@ En Marzo 25 del 2020, Dagoberto Pulido, estudiante de doctorado del Instituto Po
 Nacional (IPN), me comunicó que en el Hospital Materno de Celaya querían conseguir cajas tipo “aerosolbox” para protegerse durante las operaciones de intubación de pacientes enfermos de COVID-19. Al parecer, estas cajas fueron desarrolladas por [Lai Hsien-yung](https://sites.google.com/view/aerosolbox/design), un anestesiologísta en Taiwan. Durante el proceso de intubación, hay un grupo de médico que atiende al paciente. El paciente reacciona al proceso de intubación tosiendo, tratando naturalmente de expeler el instrumento que es introducido a su garganta. </br> 
 Las cajas están hechas de acrílico trasparente de 3mm de grosor. Las cajas tienen dos paredes sin material, una por donde entra el paciente, y otra debajo de la cual el paciente está recostado. Por otra de las paredes, se tienen dos orificos en donde entran las manos de quien realiza el procedimiento. El diseño con algunas paredes abiertas y otras cerradas, obedece a la necesidad de reducir la exposición de las personas que están realizando el procedimiento.</br>
 
-#### Dagoberto Pulido se incorporó </br>
-#### Alejandro Pulido se incorporó </br>
-#### Ivone Paniagua se incorporó </br>
-#### Othón González se incorporó </br>
-#### David Médina se incorporó </br>
-
 
 ## Marzo 26, 2020
 Hacia el 26 de Marzo, fuimos a comprar material, al tiempo que David Medina, estudiante de Maestría ponía a punto el diseño de Hsien-yung para obtener sus partes. En tanto, Othón González, recién egresado del doctorado, ponía a punto en el cortador láser de nuestro [FabLab en  el IPN](https://www.fablabs.io/labs/SALLAB). Pronto comenzaron a surgir más peticiones en el Hospital General del ISSSTE en Querétaro, el Hospital Materno Infantil de Querétaro. El material para las cajas, que consiste en una hoja de 127mm x 249mm, se corta en 18 minutos, y de él salen tres cajas, pero el ensamblaje que es manual, tarda una hora para cada caja. En adición, el pegado tarda 24 horas para alcanzar su máxima resistencia. 
@@ -27,13 +21,6 @@ Hacia el 26 de Marzo, fuimos a comprar material, al tiempo que David Medina, est
     </figcaption>
     </font>
 </figure>
-
-
-
-
-#### Raul Rodea se incorporó </br>
-#### Israel Cruz se incorporó </br>
-
 
 
 
@@ -57,9 +44,6 @@ Para el 27 de marzo, las primeras cajas aerosolbox estaban listas para ser valid
 
 Ese mismo día, las primeras caretas comenzaron a producirse. Hacia medio día acudimos al Hospital del Niño y la Mujer. Nos recomendaron hacer una modificación a las cajas. La idea era hacer una rampa en la tapa superior, de tal forma de permitir al intubador acercarse lo más posible al paciente. Igualmente, el tamaño de los agujeros quedo reducido a 12 cm. Este mismo día hicimos modificaciones al diseño de las caretas, para quedar en su estado último.
 
-#### Omar Montoya se incorporó
-#### Mayra Candido se incorporó 
-#### Regina Hernández se incorporó
 
 
 ## Marzo 28, 2020
@@ -200,7 +184,7 @@ Nos solicitaron material para el hospital de la mujer en la CDMX. Las personas e
 A partir de este día redujimos la permanencia de personas en las instalaciones. Comenzamos a armar caretas en casas. 
 La caja de aerosolbox tuvo una modificación propuesta por David Medina que facilitaba su armado.
 
-### Daniela Basurto se incoporó al grupo
+
 
 ## Abril 2, 2020
 Se optimizaban los diseños para acomodar más caretas por hoja de PETG, hasta llegar a 20.
@@ -349,7 +333,7 @@ Omar Montoya<br/>
 Mayra Candido<br/>
 Israel Cruz <br/>
 Othón González<br/>
-Raúl Hernández<br/>
+Raúl Rodea<br/>
 Regina Hernández<br/>
 David Medina<br/>
 Juan Alejandro Pulido<br/>
@@ -357,6 +341,8 @@ Maria Ivone Paniagua<br/>
 Dagoberto Pulido<br/>
 Joaquín Salas<br/>
 Samuel Salasbr/>
+
+ 
 
 
 
