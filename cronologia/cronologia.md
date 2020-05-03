@@ -33,7 +33,12 @@ tipo CC BY-NC 4.0. Con el tiempo, Israél modificó el diseño para que la banda
 
 
 ## Marzo 27, 2020
-Para el 27 de marzo, las primeras cajas aerosolbox estaban listas para ser validadas por los médicos. Ese mismo día, las primeras caretas comenzaron a producirse. Hacia medio día acudimos al Hospital del Niño y la Mujer. Nos recomendaron hacer una modificación a las cajas. La idea era hacer una rampa en la tapa superior, de tal forma de permitir al intubador acercarse lo más posible al paciente. Igualmente, el tamaño de los agujeros quedo reducido a 12 cm. Este mismo día hicimos modificaciones al diseño de las caretas, para quedar en su estado último.
+Para el 27 de marzo, las primeras cajas aerosolbox estaban listas para ser validadas por los médicos.
+
+![Validación de la caja tipo Aerosolbox](IMG_20200327_142209972.jpg)
+
+
+Ese mismo día, las primeras caretas comenzaron a producirse. Hacia medio día acudimos al Hospital del Niño y la Mujer. Nos recomendaron hacer una modificación a las cajas. La idea era hacer una rampa en la tapa superior, de tal forma de permitir al intubador acercarse lo más posible al paciente. Igualmente, el tamaño de los agujeros quedo reducido a 12 cm. Este mismo día hicimos modificaciones al diseño de las caretas, para quedar en su estado último.
 
 ### Omar Montoya se incorporó
 ### Mayra Candido se incorporó 
