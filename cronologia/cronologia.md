@@ -19,7 +19,16 @@ Las cajas están hechas de acrílico trasparente de 3mm de grosor. Las cajas tie
 ## Marzo 26, 2020
 Hacia el 26 de Marzo, fuimos a comprar material, al tiempo que David Medina, estudiante de Maestría ponía a punto el diseño de Hsien-yung para obtener sus partes. En tanto, Othón González, recién egresado del doctorado, ponía a punto en el cortador láser de nuestro [FabLab en  el IPN](https://www.fablabs.io/labs/SALLAB). Pronto comenzaron a surgir más peticiones en el Hospital General del ISSSTE en Querétaro, el Hospital Materno Infantil de Querétaro. El material para las cajas, que consiste en una hoja de 127mm x 249mm, se corta en 18 minutos, y de él salen tres cajas, pero el ensamblaje que es manual, tarda una hora para cada caja. En adición, el pegado tarda 24 horas para alcanzar su máxima resistencia. 
 
-![Primer prototipo de Caja Aerosolbox](IMG_20200326_195411533.jpg)
+
+<figure>
+    <img src='IMG_20200326_195411533.jpg' />
+    <font size="2">
+    <figcaption> Primer prototipo de Caja Aerosolbox </a> 
+    </figcaption>
+    </font>
+</figure>
+
+
 
 
 #### Raul Rodea se incorporó </br>
@@ -35,7 +44,15 @@ tipo CC BY-NC 4.0. Con el tiempo, Israél modificó el diseño para que la banda
 ## Marzo 27, 2020
 Para el 27 de marzo, las primeras cajas aerosolbox estaban listas para ser validadas por los médicos.
 
-![Validación de la caja tipo Aerosolbox](IMG_20200327_142209972.jpg)
+
+<figure>
+    <img src='IMG_20200327_142209972.jpg' />
+    <font size="2">
+    <figcaption> Validación de la caja tipo Aerosolbox </a> 
+    </figcaption>
+    </font>
+</figure>
+ 
 
 
 Ese mismo día, las primeras caretas comenzaron a producirse. Hacia medio día acudimos al Hospital del Niño y la Mujer. Nos recomendaron hacer una modificación a las cajas. La idea era hacer una rampa en la tapa superior, de tal forma de permitir al intubador acercarse lo más posible al paciente. Igualmente, el tamaño de los agujeros quedo reducido a 12 cm. Este mismo día hicimos modificaciones al diseño de las caretas, para quedar en su estado último.
@@ -49,31 +66,72 @@ Ese mismo día, las primeras caretas comenzaron a producirse. Hacia medio día a
 Por la mañana del 28 de Marzo recibimos a Arturo Gómez, investigador del CIDESI. Arturo está a cargo del Consorcio Mexicano de Manufactura Aditiva (CMMA). Su intención era realizar cortes láser para material que sería utilizado para el armado de un prototipo de ventilador. A la postre, este ventilador sería tomado por CONACYT, junto con otros cinco para elaborar productos nacionales. En particular, el ventilador de CIDESI terminó fabricado por la empresa Safrán. 
 El mismo 28 de Marzo acudimos al Hospital General del ISSSTE en Queretaro.
 
-![Validación de la caja tipo Aerosolbox en adultos. Diseño con rampa](IMG_20200328_130350091.jpg)
 
-![Validación de la caja tipo Aerosolbox en bebes. Diseño con rampa](IMG_20200328_134559318.jpg)
+<figure>
+    <img src='IMG_20200328_130350091.jpg' />
+    <font size="2">
+    <figcaption> Validación de la caja tipo Aerosolbox en adultos. Diseño con rampa </a> 
+    </figcaption>
+    </font>
+</figure>
 
-	
+<figure>
+    <img src='IMG_20200328_134559318.jpg' />
+    <font size="2">
+    <figcaption> Validación de la caja tipo Aerosolbox en bebes. Diseño con rampa </a> 
+    </figcaption>
+    </font>
+</figure>
 
+ 
 
 Presentamos las caretas tanto del CIDESI como las del IPN. El personal seleccionó las caretas del IPN porque no tenían elástico, el cual se degradaba con el lavado y perdía flexibilidad. En adición, el modelo de CIDESI requería impresión 3D, lo cual lo hacía más tardado y caro de producir. La CMMA decidió validar nuestros modelos de careta y caja como aptos para la tarea de protección de personal médico. Con los EPP validados, procedimos a realizar su producción en serie. También con los diseños validados instalamos una página en [github](https://github.com/CICATA/covid19) para distribuir los diseños ampliamente y de forma gratuita.
 
-![Validación de la careta](IMG_20200327_152611685.jpg)
+
+<figure>
+    <img src='IMG_20200327_152611685.jpg' />
+    <font size="2">
+    <figcaption> Validación de la careta </a> 
+    </figcaption>
+    </font>
+</figure>
+ 
 
 
 ## Marzo 29, 2020
 El 29 de Marzo comenzamos a distribuir en el Hospital General de Querétaro. A través de la noche habían tenido su primer paciente de COVID-19. Cuando llegamos estaba todo el cuerpo médico y enfermeras reunidas en el patio con el Director General. El estaba explicando los procedimiento y resolviendo dudas. Fue muy emotivo que justo en ese momento apareciera la camioneta del IPN con EPP. 
-![Reunión en el HGQ después del primer fallecido por COVID19 en Querétaro](IMG_20200329_105340998_HDR.jpg)
 
-Dentro de su tensión, fue muy reconfortante ver aparecer a nuestro instituto ofreciendo ayuda. 
-![Primera entrega de material al HGQ](IMG_20200329_111024803.jpg)
-	
-	
+<figure>
+    <img src='IMG_20200329_105340998_HDR.jpg' />
+    <font size="2">
+    <figcaption> Reunión en el HGQ después del primer fallecido por COVID19 en Querétaro </a> 
+    </figcaption>
+    </font>
+</figure>
 
+Dentro de su tensión, fue muy emotivo ver aparecer a nuestro instituto ofreciendo ayuda. 
+
+<figure>
+    <img src='IMG_20200329_111024803.jpg' />
+    <font size="2">
+    <figcaption> Primera entrega de material al HGQ </a> 
+    </figcaption>
+    </font>
+</figure>
+
+ 
 
 Más tarde, llevamos cajas y caretas a la delegación del IMSS. Ahí nos recibió la delegada. También estuvieron muy contentos de recibir el apoyo del IPN. También comenzamos con esto una relación con el IMSS que se ha fortalecido para el análisis de sus datos.
 
-![Primera entrega de material al IMSS](IMG_20200329_152830170.jpg)
+
+<figure>
+    <img src='IMG_20200329_152830170.jpg' />
+    <font size="2">
+    <figcaption> Primera entrega de material al IMSS </a> 
+    </figcaption>
+    </font>
+</figure>
+ 
 
 Las fichas técnicas de ambos, las caretas y los aerosol box quedaron listas y aprobadas por la CONMAD. 
 
@@ -84,21 +142,53 @@ El 30 de Marzo continuamos produciendo y repartiendo material en el Hospital Gen
 
 Estos eran días de mucha tensión. El Gobernador de Querétaro anunció que se había enfermado. Uno de mis estudiantes se había enfermado al trasladarse a guardar cuarentena en Morelos. Notabamos que habíamos tocado una fibra muy sensible en la sociedad por la atención que estabamos generando. </br>
 
-![Armado de cajas en el IPN](IMG_20200330_173348315_HDR.jpg)
+
+<figure>
+    <img src='IMG_20200330_173348315_HDR.jpg' />
+    <font size="2">
+    <figcaption> Armado de cajas en el IPN </a> 
+    </figcaption>
+    </font>
+</figure>
+
+ 
 
 Estabamos apoyando a los médicas, enfermeros, paramédicos y camilleros preparandolos para el trabajo que a algunos pronto les tocaría enfrentar y otras ya estaban enfrentado. El personal médico está en la linea de combate y nosotros les estabamos ayudando a que estuvieran más protegidos. Mi sentir en ese momento es que estabamos haciendo algo fundamental. Los días eran largos pero estaban valiendo la pena. En esos momentos teniamos los diseños y la experiencia en la construcción de cajas y caretas que nos permitiran atender cierta demanda, pero más importante, estabamos siendo una semilla importante en la creacion, difusión y adopción de material médico de protección de personal.</br>
 
-![Entrega de cajas aerosolbox al IMSS](IMG_20200330_113823877.jpg)
+
+<figure>
+    <img src='IMG_20200330_113823877.jpg' />
+    <font size="2">
+    <figcaption> Entrega de cajas aerosolbox al IMSS </a> 
+    </figcaption>
+    </font>
+</figure>
+ 
 
 
 ## Marzo 31, 2020
 El 31 de Marzo entregamos 10 cajas tipo aerosolbox al HGQ, y 5 más al IMSS.
 
-![Entrega de cajas aerosolbox al Director General del HGQ](IMG_20200331_093742722.jpg)
+<figure>
+    <img src='IMG_20200331_093742722.jpg' />
+    <font size="2">
+    <figcaption> Entrega de cajas aerosolbox al Director General del HGQ </a> 
+    </figcaption>
+    </font>
+</figure>
+
 
 La dirección de hospitales de los Servicios de Salud del Estado de Querétaro (SESEQ) nos reconocía la labor que realizabamos y nos enviaba el agradecimiento del Gobierno del Estado. Al tiempo nos solicitaba equipo para Jalpan, Cadereyta, en terminos de caretar y cajas aerosol para niños y adultos. 
 
-![Entrega de caretas a la Administradora del HGQ](IMG_20200401_105304230.jpg)
+
+<figure>
+    <img src='IMG_20200401_105304230.jpg' />
+    <font size="2">
+    <figcaption> Entrega de caretas a la Administradora del HGQ </a> 
+    </figcaption>
+    </font>
+</figure>
+
 
 
 
@@ -122,7 +212,14 @@ Nos anuncian que Mabe ha comenzado la producción y distribución de cajas tipo 
 ## Abril 3, 2020
 Regina Hernández preparó soluciones sanitizantes, en base a cluroruo benzalconio al 0.18%,  en atomizador. Estas fueron entregadas en el hospital general del ISSSTE.
 
-[Entrega de sanitizantes en el Hospital General del ISSSTE](IMG_20200404_121617952_HDR.jpg)
+<figure>
+    <img src='IMG_20200404_121617952_HDR.jpg' />
+    <font size="2">
+    <figcaption> Entrega de sanitizantes en el Hospital General del ISSSTE </a> 
+    </figcaption>
+    </font>
+</figure>
+
 
 Nos anuncian que Innovet, un fabricante industrial veestá produciendo máscaras. Su precio de producción es menor que el nuestro y su capacidad de producción dos ordenes de magnitud mayor que la nuestra. Sus caretas introducian cierta deformación óptica, pero eran económicas  y potencialmente podrían estar disponibles en grandes cantidades.
 
@@ -136,10 +233,41 @@ Con el anuncio del gobernador y la entrada de productores industriales, decido e
 Nos llegan noticias de nuestras caretas siendo utilizadas en el hospital de Oncología Siglo XXI del IMSS. Durante el día llegan más testimoniales de nuestro material siendo utilizado por médic@s y enfermer@s
 El comunicado c-058 del IPN da testimonio de nuestra contribución al esfuerzo institucional.
 
-![](IMG-20200401-WA0032.jpg)
-![](IMG-20200331-WA0065.jpg)
-![](IMG-20200331-WA0069.jpg)
-![](IMG-20200331-WA0070.jpg)
+
+<figure>
+    <img src='IMG-20200401-WA0032.jpg' />
+    <font size="2">
+    <figcaption> 01. Usuarios del EPP construido </a> 
+    </figcaption>
+    </font>
+</figure>
+
+<figure>
+    <img src='IMG-20200331-WA0065.jpg' />
+    <font size="2">
+    <figcaption> 02. Usuarios del EPP construido </a> 
+    </figcaption>
+    </font>
+</figure>
+
+<figure>
+    <img src='IMG-20200331-WA0069.jpg' />
+    <font size="2">
+    <figcaption> 03. Usuarios del EPP construido </a> 
+    </figcaption>
+    </font>
+</figure>
+
+<figure>
+    <img src='IMG-20200331-WA0070.jpg' />
+    <font size="2">
+    <figcaption> 04. Usuarios del EPP construido </a> 
+    </figcaption>
+    </font>
+</figure>
+
+
+ 
 
 
 
@@ -152,7 +280,16 @@ https://www.facebook.com/212232811807/posts/10159140925676808/
 ## Conclusión
 La comunidad del IPN puede sentirse orgullosa del esfuerzo que este grupo de estudiantes y profesores hicieron a favor de la comunidad médica. El efecto más grande fue en Querétaro, pero hubo oportunidad de apoyar a hospitales de muchos lugares de la república. Los diseños fueron colocados en Siento que nuestra aportación fue ayudar a encender la chispa para que otro makers, universidades, y eventualmente empresarios se dieran cuenta de la necesidad que había de apoyar. Entramos cuando las cosas no se podían comprar porque no existian. Salimos cuando había mostrada capacidad industrial para satisfacer la necesidad con un menor gasto. 
 
-![La Técnica al Servicio de la Patria](IMG-20200331-WA0017.jpg)
+
+<figure>
+    <img src='IMG-20200331-WA0017.jpg' />
+    <font size="2">
+    <figcaption> La Técnica al Servicio de la Patria </a> 
+    </figcaption>
+    </font>
+</figure>
+
+ 
 
 
 
