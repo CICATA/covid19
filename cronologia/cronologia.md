@@ -85,7 +85,7 @@ El mismo 28 de Marzo acudimos al Hospital General del ISSSTE en Queretaro.
 
  
 
-Presentamos las caretas tanto del CIDESI como las del IPN. El personal seleccionó las caretas del IPN porque no tenían elástico, el cual se degradaba con el lavado y perdía flexibilidad. En adición, el modelo de CIDESI requería impresión 3D, lo cual lo hacía más tardado y caro de producir. La CMMA decidió validar nuestros modelos de careta y caja como aptos para la tarea de protección de personal médico. Con los EPP validados, procedimos a realizar su producción en serie. También con los diseños validados instalamos una página en [github](https://github.com/CICATA/covid19) para distribuir los diseños ampliamente y de forma gratuita.
+Presentamos dos caretas a los médicos, una de ellas las que habiamos elaborado en el IPN. El personal seleccionó estas caretas porque no tenían elástico, el cual se degradaba con el lavado y perdía flexibilidad. En adición, el otro modelo requería impresión 3D, lo cual lo hacía más tardado y caro de producir. La CMMA decidió validar nuestros modelos de careta y caja como aptos para la tarea de protección de personal médico. Con los EPP validados, procedimos a realizar su producción en serie. También con los diseños validados instalamos una página en [github](https://github.com/CICATA/covid19) para distribuir los diseños ampliamente y de forma gratuita.
 
 
 <figure>
