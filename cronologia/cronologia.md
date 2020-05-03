@@ -19,7 +19,7 @@ Las cajas están hechas de acrílico trasparente de 3mm de grosor. Las cajas tie
 ## Marzo 26, 2020
 Hacia el 26 de Marzo, fuimos a comprar material, al tiempo que David Medina, estudiante de Maestría ponía a punto el diseño de Hsien-yung para obtener sus partes. En tanto, Othón González, recién egresado del doctorado, ponía a punto en el cortador láser de nuestro [FabLab en  el IPN](https://www.fablabs.io/labs/SALLAB). Pronto comenzaron a surgir más peticiones en el Hospital General del ISSSTE en Querétaro, el Hospital Materno Infantil de Querétaro. El material para las cajas, que consiste en una hoja de 127mm x 249mm, se corta en 18 minutos, y de él salen tres cajas, pero el ensamblaje que es manual, tarda una hora para cada caja. En adición, el pegado tarda 24 horas para alcanzar su máxima resistencia. 
 
-![Image description](IMG_20200326_195411533.jpg)
+![Primer prototipo de Caja Aerosolbox](IMG_20200326_195411533.jpg)
 
 
 #### Raul Rodea se incorporó </br>
@@ -47,7 +47,16 @@ Ese mismo día, las primeras caretas comenzaron a producirse. Hacia medio día a
 
 ## Marzo 28, 2020
 Por la mañana del 28 de Marzo recibimos a Arturo Gómez, investigador del CIDESI. Arturo está a cargo del Consorcio Mexicano de Manufactura Aditiva (CMMA). Su intención era realizar cortes láser para material que sería utilizado para el armado de un prototipo de ventilador. A la postre, este ventilador sería tomado por CONACYT, junto con otros cinco para elaborar productos nacionales. En particular, el ventilador de CIDESI terminó fabricado por la empresa Safrán. 
-El mismo 28 de Marzo acudimos al Hospital General del ISSSTE en Queretaro. Presentamos las caretas tanto del CIDESI como las del IPN. El personal seleccionó las caretas del IPN porque no tenían elástico, el cual se degradaba con el lavado y perdía flexibilidad. En adición, el modelo de CIDESI requería impresión 3D, lo cual lo hacía más tardado y caro de producir. La CMMA decidió validar nuestros modelos de careta y caja como aptos para la tarea de protección de personal médico. Con los EPP validados, procedimos a realizar su producción en serie. También con los diseños validados instalamos una página en [github](https://github.com/CICATA/covid19) para distribuir los diseños ampliamente y de forma gratuita.
+El mismo 28 de Marzo acudimos al Hospital General del ISSSTE en Queretaro.
+
+![Validación de la caja tipo Aerosolbox en adultos. Diseño con rampa](IMG_20200328_130350091.jpg)
+
+![Validación de la caja tipo Aerosolbox en bebes. Diseño con rampa](IMG_20200328_134559318.jpg)
+
+	
+
+
+Presentamos las caretas tanto del CIDESI como las del IPN. El personal seleccionó las caretas del IPN porque no tenían elástico, el cual se degradaba con el lavado y perdía flexibilidad. En adición, el modelo de CIDESI requería impresión 3D, lo cual lo hacía más tardado y caro de producir. La CMMA decidió validar nuestros modelos de careta y caja como aptos para la tarea de protección de personal médico. Con los EPP validados, procedimos a realizar su producción en serie. También con los diseños validados instalamos una página en [github](https://github.com/CICATA/covid19) para distribuir los diseños ampliamente y de forma gratuita.
 
 
 ## Marzo 29, 2020
