@@ -2,7 +2,7 @@
 # [Instituto Politécnico Nacional](https://www.ipn.mx/)
 # [CICATA Querétaro](https://www.cicataqro.ipn.mx/cq/qro/Paginas/index.html) 
 ![logo](https://github.com/CICATA/covid19/blob/master/ipn.png)
-# Cronología
+# Cronología en la Construcción de Equipo de Protección Personal (EPP)
 
 ## Marzo 25, 2020
 En Marzo 25 del 2020, Dagoberto Pulido, estudiante de doctorado del Instituto Politécnico
