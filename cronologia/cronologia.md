@@ -54,7 +54,7 @@ El mismo 28 de Marzo acudimos al Hospital General del ISSSTE en Queretaro.
 
 
 !["4"](IMG_20200328_134559318.jpg)
-*Fig. 4: Validación de la caja tipo Aerosolbox en bebes. Diseño con rampa*
+*Fig. 4: Validación de la caja tipo Aerosolbox en bebés. Diseño con rampa*
 
  
 
@@ -251,10 +251,10 @@ A continuación detallamos la cantidad de equipo entregado, la fecha de la entre
 ## Conclusión
 La comunidad del IPN puede sentirse orgullosa del esfuerzo que este grupo de estudiantes y profesores hicieron a favor de la comunidad médica. El efecto más grande fue en Querétaro, pero hubo oportunidad de apoyar a hospitales de muchos lugares de la república. Los diseños fueron colocados en Siento que nuestra aportación fue ayudar a encender la chispa para que otro makers, universidades, y eventualmente empresarios se dieran cuenta de la necesidad que había de apoyar. Entramos cuando las cosas no se podían comprar porque no existian. Salimos cuando había mostrada capacidad industrial para satisfacer la necesidad con un menor gasto. 
 
+!["18"](IMG_20200330_173348315_HDR.jpg)
+*Fig. 18': Armado de Cajas*
 
 
-!["18"](IMG-20200331-WA0017.jpg)
-*Fig. 18': La Técnica al Servicio de la Patria*
 
  
 
@@ -274,10 +274,11 @@ Maria Ivone Paniagua<br/>
 Dagoberto Pulido<br/>
 Raúl Rodea<br/>
 Joaquín Salas<br/>
-Samuel Salasbr/>
+Samuel Salas<br/>
 
  
-
+!["19"](IMG-20200331-WA0017.jpg)
+*Fig. 19': La Técnica al Servicio de la Patria*
 
 
 ## Para mayor información: 
