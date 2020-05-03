@@ -62,7 +62,18 @@ Presentamos las caretas tanto del CIDESI como las del IPN. El personal seleccion
 
 
 ## Marzo 29, 2020
-El 29 de Marzo comenzamos a distribuir en el Hospital General de Querétaro. A través de la noche habían tenido su primer paciente de COVID-19. Cuando llegamos estaba todo el cuerpo médico y enfermeras reunidas en el patio con el Director General. El estaba explicando los procedimiento y resolviendo dudas. Fue muy emotivo que justo en ese momento apareciera la camioneta del IPN con EPP. Dentro de su tensión, fue muy reconfortante ver aparecer a nuestro instituto ofreciendo ayuda. Más tarde, llevamos cajas y caretas a la delegación del IMSS. Ahí nos recibió la delegada. También estuvieron muy contentos de recibir el apoyo del IPN. También comenzamos con esto una relación con el IMSS que se ha fortalecido para el análisis de sus datos.
+El 29 de Marzo comenzamos a distribuir en el Hospital General de Querétaro. A través de la noche habían tenido su primer paciente de COVID-19. Cuando llegamos estaba todo el cuerpo médico y enfermeras reunidas en el patio con el Director General. El estaba explicando los procedimiento y resolviendo dudas. Fue muy emotivo que justo en ese momento apareciera la camioneta del IPN con EPP. Dentro de su tensión, fue muy reconfortante ver aparecer a nuestro instituto ofreciendo ayuda. 
+
+
+![Reunión en el HGQ después del primer fallecido por COVID19 en Querétaro](IMG_20200329_105340998_HDR.jpg)
+![Primera entrega de material al HGQ](IMG_20200329_152830170.jpg)
+	
+	
+
+
+Más tarde, llevamos cajas y caretas a la delegación del IMSS. Ahí nos recibió la delegada. También estuvieron muy contentos de recibir el apoyo del IPN. También comenzamos con esto una relación con el IMSS que se ha fortalecido para el análisis de sus datos.
+
+![Primera entrega de material al IMSS](IMG_20200329_111024803.jpg)
 
 Las fichas técnicas de ambos, las caretas y los aerosol box quedaron listas y aprobadas por la CONMAD. 
 
