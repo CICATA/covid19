@@ -58,6 +58,8 @@ El mismo 28 de Marzo acudimos al Hospital General del ISSSTE en Queretaro.
 
 Presentamos las caretas tanto del CIDESI como las del IPN. El personal seleccionó las caretas del IPN porque no tenían elástico, el cual se degradaba con el lavado y perdía flexibilidad. En adición, el modelo de CIDESI requería impresión 3D, lo cual lo hacía más tardado y caro de producir. La CMMA decidió validar nuestros modelos de careta y caja como aptos para la tarea de protección de personal médico. Con los EPP validados, procedimos a realizar su producción en serie. También con los diseños validados instalamos una página en [github](https://github.com/CICATA/covid19) para distribuir los diseños ampliamente y de forma gratuita.
 
+![Validación de la careta](IMG_20200327_152611685.jpg)
+
 
 ## Marzo 29, 2020
 El 29 de Marzo comenzamos a distribuir en el Hospital General de Querétaro. A través de la noche habían tenido su primer paciente de COVID-19. Cuando llegamos estaba todo el cuerpo médico y enfermeras reunidas en el patio con el Director General. El estaba explicando los procedimiento y resolviendo dudas. Fue muy emotivo que justo en ese momento apareciera la camioneta del IPN con EPP. Dentro de su tensión, fue muy reconfortante ver aparecer a nuestro instituto ofreciendo ayuda. Más tarde, llevamos cajas y caretas a la delegación del IMSS. Ahí nos recibió la delegada. También estuvieron muy contentos de recibir el apoyo del IPN. También comenzamos con esto una relación con el IMSS que se ha fortalecido para el análisis de sus datos.
