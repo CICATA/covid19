@@ -12,29 +12,33 @@ Las cajas están hechas de acrílico trasparente de 3mm de grosor. Las cajas tie
 #### Dagoberto Pulido se incorporó </br>
 #### Alejandro Pulido se incorporó </br>
 #### Ivone Paniagua se incorporó </br>
-#### Raul Rodea se incorporó </br>
 #### Othón González se incorporó </br>
 #### David Médina se incorporó </br>
 
-+
-
 
 ## Marzo 26, 2020
-Hacia el 26 de Marzo, fuimos a comprar material, al tiempo que David Medina, estudiante de Maestría ponía a punto el diseño de Hsien-yung para obtener sus partes. En tanto, Othón González, recién egresado del doctorado, ponía a punto en el cortador láser del fablab que tenemos en el IPN. Pronto comenzaron a surgir más peticiones en el Hospital General del ISSSTE en Querétaro, el Hospital Materno Infantil de Querétaro. El material para las cajas, que consiste en una hoja de 127mm x 249mm, se corta en 18 minutos, y de él salen tres cajas, pero el ensamblaje que es manual, tarda una hora para cada caja. En adición, el pegado tarda 24 horas para alcanzar su máxima resistencia. 
+Hacia el 26 de Marzo, fuimos a comprar material, al tiempo que David Medina, estudiante de Maestría ponía a punto el diseño de Hsien-yung para obtener sus partes. En tanto, Othón González, recién egresado del doctorado, ponía a punto en el cortador láser de nuestro [FabLab en  el IPN](https://www.fablabs.io/labs/SALLAB). Pronto comenzaron a surgir más peticiones en el Hospital General del ISSSTE en Querétaro, el Hospital Materno Infantil de Querétaro. El material para las cajas, que consiste en una hoja de 127mm x 249mm, se corta en 18 minutos, y de él salen tres cajas, pero el ensamblaje que es manual, tarda una hora para cada caja. En adición, el pegado tarda 24 horas para alcanzar su máxima resistencia. 
 
-### Mayra Candido se incorporó 
-### Omar Montoya se incorporó.
+#### Raul Rodea se incorporó </br>
+#### Israel Cruz se incorporó </br>
+
+
 
 
 El mismo día 26 de Marzo, se unió Israel Cruz, estudiante de Maestría. El preguntó sobre la necesidad que había de caretas de protección en base a Tereftlato de polietileno (PET) con la adición de glicol (PET-G). Ese mismo día, por la noche, Israel estaba modificando un diseño aparecido en https://escudocovid19.org y puesto a libre utilización bajo licencia tipo CC BY-NC 4.0. Con el tiempo, Israél modificó el diseño para que la banda trasera de sujeción tuviera un cierre más seguro y más cómodo. En el caso de las caretas, el corte tarda 40 minutos y salén 20 por hoja de 127mm x 249 mm. 
 
-## Regina Hernández se incorporó.
+
 ## Marzo 27, 2020
 Para el 27 de marzo, las primeras cajas aerosolbox estaban listas para ser validadas por los médicos. Ese mismo día, las primeras caretas comenzaron a producirse. Hacia medio día acudimos al Hospital del Niño y la Mujer. Nos recomendaron hacer una modificación a las cajas. La idea era hacer una rampa en la tapa superior, de tal forma de permitir al intubador acercarse lo más posible al paciente. Igualmente, el tamaño de los agujeros quedo reducido a 12 cm. Este mismo día hicimos modificaciones al diseño de las caretas, para quedar en su estado último.
 
+### Omar Montoya se incorporó
+### Mayra Candido se incorporó 
+## Regina Hernández se incorporó
+
+
 ## Marzo 28, 2020
 Por la mañana del 28 de Marzo recibimos a Arturo Gómez, investigador del CIDESI. Arturo está a cargo del Consorcio Mexicano de Manufactura Aditiva (CMMA). Su intención era realizar cortes láser para material que sería utilizado para el armado de un prototipo de ventilador. A la postre, este ventilador sería tomado por CONACYT, junto con otros cinco para elaborar productos nacionales. En particular, el ventilador de CIDESI terminó fabricado por la empresa Safrán. 
-El mismo 28 de Marzo acudimos al Hospital General del ISSSTE en Queretaro. Presentamos las caretas tanto del CIDESI como las del IPN. El personal seleccionó las caretas del IPN porque no tenían elástico, el cual se degradaba con el lavado y perdía flexibilidad. En adición, el modelo de CIDESI requería impresión 3D, lo cual lo hacía más tardado y caro de producir. La CMMA decidió validar nuestros modelos de careta y caja como aptos para la tarea de protección de personal médico. Con los EPP validados, procedimos a realizar su producción en serie. También con los diseños validados instalamos una página en github en la URL https://github.com/CICATA/covid19  para distribuir los diseños ampliamente y de forma gratuita.
+El mismo 28 de Marzo acudimos al Hospital General del ISSSTE en Queretaro. Presentamos las caretas tanto del CIDESI como las del IPN. El personal seleccionó las caretas del IPN porque no tenían elástico, el cual se degradaba con el lavado y perdía flexibilidad. En adición, el modelo de CIDESI requería impresión 3D, lo cual lo hacía más tardado y caro de producir. La CMMA decidió validar nuestros modelos de careta y caja como aptos para la tarea de protección de personal médico. Con los EPP validados, procedimos a realizar su producción en serie. También con los diseños validados instalamos una página en [github](https://github.com/CICATA/covid19) para distribuir los diseños ampliamente y de forma gratuita.
 
 
 ## Marzo 29, 2020
@@ -57,9 +61,11 @@ El 31 de Marzo entregamos 10 cajas tipo aerosolbox al HGQ, y 5 más al IMSS. La 
 ## Abril 1, 2020
 
 Nos solicitaron material para el hospital de la mujer en la CDMX. Las personas estaban dipuestas a venir por el material a Querétaro. Una primera persona fallecio en las instalaciones del IMSS en Querétaro, un trabajador de salud. Entregamos material en el HGQ. Recibimos una petición del IMSS de Mérida. Recibimos respaldo de la Dirección General del IPN para continuar elaborando material. 
-Daniela Basurto se incoporó al grupo.
+
 A partir de este día redujimos la permanencia de personas en las instalaciones. Comenzamos a armar caretas en casas. 
 La caja de aerosolbox tuvo una modificación propuesta por David Medina que facilitaba su armado.
+
+### Daniela Basurto se incoporó al grupo
 
 ## Abril 2, 2020
 Se optimizaban los diseños para acomodar más caretas por hoja de PETG, hasta llegar a 20.
