@@ -4,11 +4,11 @@
 ![logo](https://github.com/CICATA/covid19/blob/master/ipn.png)
 # Cronología en la Construcción de Equipo de Protección Personal (EPP)
 
-A continuación describimos algunos de los sucesos relevantes durante el periodo en el que el Instituto Politécnico Nacional estuvo construyendo EPP para la comunidad médica.
+A continuación describimos algunos de los sucesos relevantes durante el periodo en el que el Instituto Politécnico Nacional estuvo construyendo EPP para la comunidad médica en sus instalaciones en Querétaro.
 
 ## Marzo 25, 2020
 En Marzo 25 del 2020, Dagoberto Pulido, estudiante de doctorado del Instituto Politécnico
-Nacional (IPN), me comunicó que en el Hospital Materno de Celaya querían conseguir cajas tipo “aerosolbox” para protegerse durante las operaciones de intubación de pacientes enfermos de COVID-19. Al parecer, estas cajas fueron desarrolladas por [Lai Hsien-yung](https://sites.google.com/view/aerosolbox/design), un anestesiologísta en Taiwan. Durante el proceso de intubación, hay un grupo de médico que atiende al paciente. El paciente reacciona al proceso de intubación tosiendo, tratando naturalmente de expeler el instrumento que es introducido a su garganta. </br> 
+Nacional (IPN), me comunicó que en el Hospital Materno de Celaya querían conseguir cajas tipo “aerosolbox” para protegerse durante las operaciones de intubación de pacientes enfermos de COVID-19. Al parecer, estas cajas fueron desarrolladas por [Lai Hsien-yung](https://sites.google.com/view/aerosolbox/design), un anestesiologísta en Taiwan. Durante el proceso de intubación, hay un grupo  médico que atiende al paciente. El paciente reacciona al proceso de intubación tosiendo, tratando naturalmente de expeler el instrumento que es introducido a su garganta. </br> 
 Las cajas están hechas de acrílico trasparente de 3mm de grosor. Las cajas tienen dos paredes sin material, una por donde entra el paciente, y otra debajo de la cual el paciente está recostado. Por otra de las paredes, se tienen dos orificos en donde entran las manos de quien realiza el procedimiento. El diseño con algunas paredes abiertas y otras cerradas, obedece a la necesidad de reducir la exposición de las personas que están realizando el procedimiento.</br>
 
 
@@ -32,7 +32,7 @@ tipo CC BY-NC 4.0. Con el tiempo, Israél modificó el diseño para que la banda
 
 
 ## Marzo 27, 2020
-Para el 27 de marzo, las primeras cajas aerosolbox estaban listas para ser validadas por los médicos.
+Para el 27 de marzo, las primeras cajas aerosolbox estaban listas para ser validadas por los médicos. Omar Montoya, estudiante de Doctorado, y Mayra Cándido, estudiante de maestría, y Regina Hernández, profesora del IPN, se incorporarón al grupo.
 
 
 
@@ -115,6 +115,8 @@ Estos eran días de mucha tensión. El Gobernador de Querétaro anunció que se 
 
 Estabamos apoyando a los médicas, enfermeros, paramédicos y camilleros preparandolos para el trabajo que a algunos pronto les tocaría enfrentar y otras ya estaban enfrentado. El personal médico está en la linea de combate y nosotros les estabamos ayudando a que estuvieran más protegidos. Mi sentir en ese momento es que estabamos haciendo algo fundamental. Los días eran largos pero estaban valiendo la pena. En esos momentos teniamos los diseños y la experiencia en la construcción de cajas y caretas que nos permitiran atender cierta demanda, pero más importante, estabamos siendo una semilla importante en la creacion, difusión y adopción de material médico de protección de personal.</br>
 
+Samuel Salas, estudiante de la UNAM, se incorpora al grupo. </br>
+
 !["10"](IMG_20200330_113823877.jpg)
 *Fig. 1': Entrega de cajas aerosolbox al IMSS*
 
@@ -141,11 +143,12 @@ La dirección de hospitales de los Servicios de Salud del Estado de Querétaro (
 
 ## Abril 1, 2020
 
-Nos solicitaron material para el hospital de la mujer en la CDMX. Las personas estaban dipuestas a venir por el material a Querétaro. Una primera persona falleció en las instalaciones del IMSS en Querétaro, un trabajador de salud. Entregamos material en el HGQ. Recibimos una petición del IMSS de Mérida. Recibimos respaldo de la Dirección General del IPN para continuar elaborando material. 
+Nos solicitaron material para el hospital de la mujer en la CDMX. Las personas estaban dipuestas a venir por el material a Querétaro. Una primera persona falleció en las instalaciones del IMSS en Querétaro, un trabajador de salud. Entregamos material en el HGQ. Recibimos una petición del IMSS de Mérida. Recibimos respaldo de la Dirección General del IPN para continuar elaborando material. </br>
 
 A partir de este día redujimos la permanencia de personas en las instalaciones. Comenzamos a armar caretas en casas. 
-La caja de aerosolbox tuvo una modificación propuesta por David Medina que facilitaba su armado.
+La caja de aerosolbox tuvo una modificación propuesta por David Medina que facilitaba su armado.</br>
 
+Daniela Basurto, estudiante de Maestría, se incorporó al grupo.
 
 
 ## Abril 2, 2020
@@ -167,9 +170,7 @@ Nos anuncian que Innovet, un fabricante industrial veestá produciendo máscaras
 
 ## Abril 4, 2020
 
-El gobernador de Querétaro llama a la población a quedarse en casa.
-Entregamos las cajas y mascaras restantes y mandamos armar a casas las caretas que hasta ese momento habíamos armado. 
-Con el anuncio del gobernador y la entrada de productores industriales, decido enviar a los estudiantes a sus casas y concluir con las actividades de producción de EPP.  
+El gobernador de Querétaro llama a la población a quedarse en casa. Entregamos las cajas y mascaras restantes y mandamos armar a casas las caretas que hasta ese momento habíamos armado. Con el anuncio del gobernador y la entrada de productores industriales, decido pedir a a los estudiantes que procedamos a guardar cuarentena y concluir con las actividades de producción de EPP.  
 
 ## Abril 6, 2020
 Nos llegan noticias de nuestras caretas siendo utilizadas en el hospital de Oncología Siglo XXI del IMSS. Durante el día llegan más testimoniales de nuestro material siendo utilizado por médic@s y enfermer@s
