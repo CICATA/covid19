@@ -80,17 +80,32 @@ Las fichas técnicas de ambos, las caretas y los aerosol box quedaron listas y a
 ## Marzo 30, 2020
 El 30 de Marzo continuamos produciendo y repartiendo material en el Hospital General de Celaya, el Hospital Materno-Infantil de Celaya, el Hospital del Niño y la Mujer en Querétaro, el ISSSTE de Querétaro. Nos llegaron mensajes de Tijuana, Mérida, León, Jalpán, la CDMX. Ese día comenzaron a llegar más peticiones. Nos pedían material del IMSS en Celaya, en Mérida. Comenzaron a llegar gente de la sociedad civil buscando ayudar. Por la tarde el Diputado Federal Felipe Macías visitó las instalaciones del IPN y grabó [un video](https://www.facebook.com/961310490582166/posts/2873303376049525/?vh=e&d=n) que difundió en redes sociales. </br>
 
+
+
 Estos eran días de mucha tensión. El Gobernador de Querétaro anunció que se había enfermado. Uno de mis estudiantes se había enfermado al trasladarse a guardar cuarentena en Morelos. Notabamos que habíamos tocado una fibra muy sensible en la sociedad por la atención que estabamos generando. </br>
+
+![Armado de cajas en el IPN](IMG_20200330_173348315_HDR.jpg)
 
 Estabamos apoyando a los médicas, enfermeros, paramédicos y camilleros preparandolos para el trabajo que a algunos pronto les tocaría enfrentar y otras ya estaban enfrentado. El personal médico está en la linea de combate y nosotros les estabamos ayudando a que estuvieran más protegidos. Mi sentir en ese momento es que estabamos haciendo algo fundamental. Los días eran largos pero estaban valiendo la pena. En esos momentos teniamos los diseños y la experiencia en la construcción de cajas y caretas que nos permitiran atender cierta demanda, pero más importante, estabamos siendo una semilla importante en la creacion, difusión y adopción de material médico de protección de personal.</br>
 
+![Entrega de cajas aerosolbox al IMSS](IMG_20200330_113823877.jpg)
+
 
 ## Marzo 31, 2020
-El 31 de Marzo entregamos 10 cajas tipo aerosolbox al HGQ, y 5 más al IMSS. La dirección de hospitales de los Servicios de Salud del Estado de Querétaro (SESEQ) nos reconocía la labor que realizabamos y nos enviaba el agradecimiento del Gobierno del Estado. Al tiempo nos solicitaba equipo para Jalpan, Cadereyta, en terminos de caretar y cajas aerosol para niños y adultos. Por la tarde, la dirección del centro nos pidió parar y que regresaramos a nuestras casas a hacer cuarentena.
+El 31 de Marzo entregamos 10 cajas tipo aerosolbox al HGQ, y 5 más al IMSS.
+
+![Entrega de cajas aerosolbox al Director General del HGQ](IMG_20200331_093742722.jpg)
+
+La dirección de hospitales de los Servicios de Salud del Estado de Querétaro (SESEQ) nos reconocía la labor que realizabamos y nos enviaba el agradecimiento del Gobierno del Estado. Al tiempo nos solicitaba equipo para Jalpan, Cadereyta, en terminos de caretar y cajas aerosol para niños y adultos. 
+
+![Entrega de caretas a la Administradora del HGQ](IMG_20200401_105304230.jpg)
+
+
+
 
 ## Abril 1, 2020
 
-Nos solicitaron material para el hospital de la mujer en la CDMX. Las personas estaban dipuestas a venir por el material a Querétaro. Una primera persona fallecio en las instalaciones del IMSS en Querétaro, un trabajador de salud. Entregamos material en el HGQ. Recibimos una petición del IMSS de Mérida. Recibimos respaldo de la Dirección General del IPN para continuar elaborando material. 
+Nos solicitaron material para el hospital de la mujer en la CDMX. Las personas estaban dipuestas a venir por el material a Querétaro. Una primera persona falleció en las instalaciones del IMSS en Querétaro, un trabajador de salud. Entregamos material en el HGQ. Recibimos una petición del IMSS de Mérida. Recibimos respaldo de la Dirección General del IPN para continuar elaborando material. 
 
 A partir de este día redujimos la permanencia de personas en las instalaciones. Comenzamos a armar caretas en casas. 
 La caja de aerosolbox tuvo una modificación propuesta por David Medina que facilitaba su armado.
@@ -101,12 +116,15 @@ La caja de aerosolbox tuvo una modificación propuesta por David Medina que faci
 Se optimizaban los diseños para acomodar más caretas por hoja de PETG, hasta llegar a 20.
 Nuestro trabajo fue parte del apoyo que ofrecio el IPN al Gobierno Federal: https://www.ipn.mx/CCS/comunicados/ver-comunicado.html?y=2020&n=52&fbclid=IwAR19DqPimXV4bgBnXloVQrgDjjK56JV87Le2g-gPr7Be410JXFZfndC0K1A
 
-Nos anuncian que Mabe ha comenzado la producción de cajas tipo aerosolbox a nivel industrial. Su sistema de producción es mediante termoformado. Por ello, nos comenzamos a concentrar en caretas.
+Nos anuncian que Mabe ha comenzado la producción y distribución de cajas tipo [aerosolbox a nivel industrial](https://www.expoknews.com/ante-la-pandemia-de-covid-19-desarrollan-equipo-protector-para-personal-medico-con-cajones-de-refrigerador/). Su sistema de producción es mediante termoformado. Por ello, nos comenzamos a concentrar en caretas.
 
 
 ## Abril 3, 2020
-Regina Hernández preparó soluciones sanitizantes, en base a cluroruo benzalconio al 0.18%,  en atomizador. Estas fueron entrgadas en el hospital general del ISSSTE.
-Nos anuncian que Innovet, un fabricante industrial está produciendo máscaras. Su precio de producción es menor que el nuestro y su capacidad de producción dos ordenes de magnitud mayor que la nuestra. Sus caretas no son tan buenas pues introducen cierta deformación por la óptica. Pero son baratas y están disponibles.
+Regina Hernández preparó soluciones sanitizantes, en base a cluroruo benzalconio al 0.18%,  en atomizador. Estas fueron entregadas en el hospital general del ISSSTE.
+
+![Entrega de sanitizantes en el Hospital General del ISSSTE](IMG_20200401_105304230.jpg)
+
+Nos anuncian que Innovet, un fabricante industrial veestá produciendo máscaras. Su precio de producción es menor que el nuestro y su capacidad de producción dos ordenes de magnitud mayor que la nuestra. Sus caretas introducian cierta deformación óptica, pero eran económicas  y potencialmente podrían estar disponibles en grandes cantidades.
 
 ## Abril 4, 2020
 
@@ -116,7 +134,15 @@ Con el anuncio del gobernador y la entrada de productores industriales, decido e
 
 ## Abril 6, 2020
 Nos llegan noticias de nuestras caretas siendo utilizadas en el hospital de Oncología Siglo XXI del IMSS. Durante el día llegan más testimoniales de nuestro material siendo utilizado por médic@s y enfermer@s
-El comunicado c-058 del IPN da testimonio de nuestra contribucoón al esfuerzo institucional.
+El comunicado c-058 del IPN da testimonio de nuestra contribución al esfuerzo institucional.
+
+![](IMG-20200331-WA0063.jpg)
+![](IMG-20200331-WA0065.jpg)
+![](IMG-20200331-WA0069.jpg)
+![](IMG-20200331-WA0070.jpg)
+
+
+
 
 ## Abril 20, 2020
 El diario local de Querétaro sumariza nuestra colaboración
@@ -125,6 +151,8 @@ https://www.facebook.com/212232811807/posts/10159140925676808/
 
 ## Conclusión
 La comunidad del IPN puede sentirse orgullosa del esfuerzo que este grupo de estudiantes y profesores hicieron a favor de la comunidad médica. El efecto más grande fue en Querétaro, pero hubo oportunidad de apoyar a hospitales de muchos lugares de la república. Los diseños fueron colocados en Siento que nuestra aportación fue ayudar a encender la chispa para que otro makers, universidades, y eventualmente empresarios se dieran cuenta de la necesidad que había de apoyar. Entramos cuando las cosas no se podían comprar porque no existian. Salimos cuando había mostrada capacidad industrial para satisfacer la necesidad con un menor gasto. 
+
+![La Técnica al Servicio de la Patria](IMG-20200331-WA0017.jpg)
 
 
 
@@ -135,3 +163,9 @@ Cerro Blanco 141, Colinas del Cimatario<br/>
 Querétaro, 76090, México<br/>
 jsalasr@ipn.mx o salas@ieee.org<br/>
 Joaquín Salas
+
+
+### Agradecimientos
+Los gastos asociados a la producción de EPP fueron cubiertos por un donativo de la Fundacion Politécnica, los recursos del Instituto Politécnico Nacional, y la generosa participación de estudiantes, profesores, y personas de la sociedad civisl, a quienes les quedamos 
+muy agradecido.
+
