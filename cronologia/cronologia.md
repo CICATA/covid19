@@ -14,13 +14,14 @@ Las cajas están hechas de acrílico trasparente de 3mm de grosor. Las cajas tie
 Hacia el 26 de Marzo, fuimos a comprar material, al tiempo que David Medina, estudiante de Maestría ponía a punto el diseño de Hsien-yung para obtener sus partes. En tanto, Othón González, recién egresado del doctorado, ponía a punto en el cortador láser de nuestro [FabLab en  el IPN](https://www.fablabs.io/labs/SALLAB). Pronto comenzaron a surgir más peticiones en el Hospital General del ISSSTE en Querétaro, el Hospital Materno Infantil de Querétaro. El material para las cajas, que consiste en una hoja de 127mm x 249mm, se corta en 18 minutos, y de él salen tres cajas, pero el ensamblaje que es manual, tarda una hora para cada caja. En adición, el pegado tarda 24 horas para alcanzar su máxima resistencia. 
 
 
-<figure>
-    <img src='IMG_20200326_195411533.jpg' />
-    <font size="2">
-    <figcaption> Primer prototipo de Caja Aerosolbox </a> 
-    </figcaption>
-    </font>
-</figure>
+ 
+
+
+!["1"](IMG_20200326_195411533.jpg)
+*Fig. 1: Primer prototipo de Caja Aerosolbox*
+
+
+ 
 
 
 
