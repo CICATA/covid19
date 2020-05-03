@@ -341,6 +341,22 @@ La comunidad del IPN puede sentirse orgullosa del esfuerzo que este grupo de est
 </figure>
 
  
+# Participantes
+Este trabajo ha sido fruto del esfuerzo colaborativo de muchas personas voluntarias. Entre ellas se encuentran:
+
+Daniela Basurto<br/>
+Omar Montoya<br/>
+Mayra Candido<br/>
+Israel Cruz <br/>
+Othón González<br/>
+Raúl Hernández<br/>
+Regina Hernández<br/>
+David Medina<br/>
+Juan Alejandro Pulido<br/>
+Maria Ivone Paniagua<br/>
+Dagoberto Pulido<br/>
+Joaquín Salas<br/>
+Samuel Salasbr/>
 
 
 
