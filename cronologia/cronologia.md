@@ -277,6 +277,57 @@ El diario local de Querétaro sumariza nuestra colaboración
 https://www.facebook.com/212232811807/posts/10159140925676808/
 
 
+## Material Entregado
+A continuación detallamos la cantidad de equipo entregado, la fecha de la entrega y el destinatario. Todo el material fue donado.
+
+|Fecha | Aerosolbox Adulto | Aerosolbox Pediátrico | Destino |
+| ------------- | ------------- |------------- |------------- |
+|2020.03.27|	1|		|H-NyM|			
+|2020.03.29|	1|	1	|HGQ|		
+|2020.03.30|	2|		|IMSS-Del-Qro|		
+|2020.03.31|	9|	10	|H-NyM|
+|2020.03.31|	10|		|IMSS-Del-Qro|
+|2020.03.31|	6|	2	|H-NyM|
+|2020.03.31|	10|		|HGQ|			
+|2020.04.02|	5|		|HGJ|		
+|2020.04.03|	1|		|IMSS-UMF16|
+|2020.04.04|	1|	2	|SESEQ|
+|2020.04.04|	4|		|IMSS-Del-Qro|
+|TOTAL|	50|		15| |
+
+
+
+|Fecha | Caretas |  Destino |
+| ------------- | ------------- |------------- |-
+|2020.03.28|	4|	CS
+|2020.03.29|	30|	IMSS-Del-Qro|
+|2020.03.29|	30|	HGC, ISSSTE, H-NyM|
+|2020.03.30|	16|	HGQ|
+|2020.03.30|	4|	HGJ|
+|2020.03.31|	53|	HGQ|
+|2020.03.31|	10|	H-NyM|		
+|2020.04.01|	30|	IMSS-Del-Qro|
+|2020.04.01|	53|	HGQ|
+|2020.04.02|	8|	HGJ|
+|2020.04.02|	2|	EJR	|	
+|2020.04.04|	136|	SESEQ|		
+|2020.04.05|	90|	SESEQ|
+|2020.04.06|	105|	IMSS-Del-Qro|
+|2020.04.06|	106|	HGQ|
+|TOTAL|	677	
+
++ H-NyM,	Hospital del Niño y la Mujer
++ IMSS-Del-Qro,	IMSS delegación Querétaro
++ HGQ,	Hospital General de Querétaro
++ SESEQ,	Secretaría de Salud del Estado de Querétaro
++ IMSS-UMF-16,	IMSS Unidad Médico Familar #16
++ CS,	Centro de Salud San Pedrito Peñuelas
++ HGJ,	Hospital General de Jalpán
++ EJR,	Epidemiología de la Jurisdicción Regional4
++ HGC,	Hospital General de Celaya
+
+
+
 ## Conclusión
 La comunidad del IPN puede sentirse orgullosa del esfuerzo que este grupo de estudiantes y profesores hicieron a favor de la comunidad médica. El efecto más grande fue en Querétaro, pero hubo oportunidad de apoyar a hospitales de muchos lugares de la república. Los diseños fueron colocados en Siento que nuestra aportación fue ayudar a encender la chispa para que otro makers, universidades, y eventualmente empresarios se dieran cuenta de la necesidad que había de apoyar. Entramos cuando las cosas no se podían comprar porque no existian. Salimos cuando había mostrada capacidad industrial para satisfacer la necesidad con un menor gasto. 
 
