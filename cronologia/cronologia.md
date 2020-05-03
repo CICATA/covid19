@@ -298,8 +298,8 @@ A continuación detallamos la cantidad de equipo entregado, la fecha de la entre
 
 
 |Fecha | Caretas |  Destino |
-| ------------- | ------------- |------------- |-
-|2020.03.28|	4|	CS
+| ------------ | ------------- |------------- |
+|2020.03.28|	4|	CS|
 |2020.03.29|	30|	IMSS-Del-Qro|
 |2020.03.29|	30|	HGC, ISSSTE, H-NyM|
 |2020.03.30|	16|	HGQ|
