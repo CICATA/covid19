@@ -333,12 +333,12 @@ Omar Montoya<br/>
 Mayra Candido<br/>
 Israel Cruz <br/>
 Othón González<br/>
-Raúl Rodea<br/>
 Regina Hernández<br/>
 David Medina<br/>
 Juan Alejandro Pulido<br/>
 Maria Ivone Paniagua<br/>
 Dagoberto Pulido<br/>
+Raúl Rodea<br/>
 Joaquín Salas<br/>
 Samuel Salasbr/>
 
