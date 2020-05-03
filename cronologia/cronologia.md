@@ -122,7 +122,7 @@ Nos anuncian que Mabe ha comenzado la producción y distribución de cajas tipo 
 ## Abril 3, 2020
 Regina Hernández preparó soluciones sanitizantes, en base a cluroruo benzalconio al 0.18%,  en atomizador. Estas fueron entregadas en el hospital general del ISSSTE.
 
-![Entrega de sanitizantes en el Hospital General del ISSSTE](IMG_20200404_121617952_HDR.jpg)
+[Entrega de sanitizantes en el Hospital General del ISSSTE](IMG_20200404_121617952_HDR.jpg)
 
 Nos anuncian que Innovet, un fabricante industrial veestá produciendo máscaras. Su precio de producción es menor que el nuestro y su capacidad de producción dos ordenes de magnitud mayor que la nuestra. Sus caretas introducian cierta deformación óptica, pero eran económicas  y potencialmente podrían estar disponibles en grandes cantidades.
 
@@ -136,7 +136,7 @@ Con el anuncio del gobernador y la entrada de productores industriales, decido e
 Nos llegan noticias de nuestras caretas siendo utilizadas en el hospital de Oncología Siglo XXI del IMSS. Durante el día llegan más testimoniales de nuestro material siendo utilizado por médic@s y enfermer@s
 El comunicado c-058 del IPN da testimonio de nuestra contribución al esfuerzo institucional.
 
-![](IMG-20200331-WA0063.jpg)
+![](IMG-20200401-WA0032.jpg)
 ![](IMG-20200331-WA0065.jpg)
 ![](IMG-20200331-WA0069.jpg)
 ![](IMG-20200331-WA0070.jpg)
