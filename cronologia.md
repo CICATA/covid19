@@ -25,7 +25,8 @@ Hacia el 26 de Marzo, fuimos a comprar material, al tiempo que David Medina, est
 
 
 
-El mismo día 26 de Marzo, se unió Israel Cruz, estudiante de Maestría. El preguntó sobre la necesidad que había de caretas de protección en base a Tereftlato de polietileno (PET) con la adición de glicol (PET-G). Ese mismo día, por la noche, Israel estaba modificando un diseño aparecido en https://escudocovid19.org y puesto a libre utilización bajo licencia tipo CC BY-NC 4.0. Con el tiempo, Israél modificó el diseño para que la banda trasera de sujeción tuviera un cierre más seguro y más cómodo. En el caso de las caretas, el corte tarda 40 minutos y salén 20 por hoja de 127mm x 249 mm. 
+El mismo día 26 de Marzo, se unió Israel Cruz, estudiante de Maestría. El preguntó sobre la necesidad que había de caretas de protección en base a Tereftlato de polietileno (PET) con la adición de glicol (PET-G). Ese mismo día, por la noche, Israel estaba modificando un diseño desarrollado en España por el grupo [Escudo COVID19](https://escudocovid19.org) y puesto a libre utilización bajo licencia
+tipo CC BY-NC 4.0. Con el tiempo, Israél modificó el diseño para que la banda trasera de sujeción tuviera un cierre más seguro y más cómodo. En el caso de las caretas, el corte tarda 40 minutos y salén 20 por hoja de 127mm x 249 mm. 
 
 
 ## Marzo 27, 2020
@@ -76,7 +77,7 @@ Nos anuncian que Mabe ha comenzado la producción de cajas tipo aerosolbox a niv
 
 ## Abril 3, 2020
 Regina Hernández preparó soluciones sanitizantes, en base a cluroruo benzalconio al 0.18%,  en atomizador. Estas fueron entrgadas en el hospital general del ISSSTE.
-Nos anuncian que un fabricante industrial está produciendo máscaras. Su precio de producción es menor que el nuestro y su capacidad de producción dos ordenes de magnitud mayor que la nuestra. Sus caretas no son tan buenas pues introducen cierta deformación por la óptica. Pero son baratas y están disponibles.
+Nos anuncian que Innovet, un fabricante industrial está produciendo máscaras. Su precio de producción es menor que el nuestro y su capacidad de producción dos ordenes de magnitud mayor que la nuestra. Sus caretas no son tan buenas pues introducen cierta deformación por la óptica. Pero son baratas y están disponibles.
 
 ## Abril 4, 2020
 
