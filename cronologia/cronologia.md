@@ -122,7 +122,7 @@ Nos anuncian que Mabe ha comenzado la producción y distribución de cajas tipo 
 ## Abril 3, 2020
 Regina Hernández preparó soluciones sanitizantes, en base a cluroruo benzalconio al 0.18%,  en atomizador. Estas fueron entregadas en el hospital general del ISSSTE.
 
-![Entrega de sanitizantes en el Hospital General del ISSSTE](IMG_20200401_105304230.jpg)
+![Entrega de sanitizantes en el Hospital General del ISSSTE](IMG_20200404_121617952_HDR.jpg)
 
 Nos anuncian que Innovet, un fabricante industrial veestá produciendo máscaras. Su precio de producción es menor que el nuestro y su capacidad de producción dos ordenes de magnitud mayor que la nuestra. Sus caretas introducian cierta deformación óptica, pero eran económicas  y potencialmente podrían estar disponibles en grandes cantidades.
 
