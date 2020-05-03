@@ -4,6 +4,8 @@
 ![logo](https://github.com/CICATA/covid19/blob/master/ipn.png)
 # Cronología en la Construcción de Equipo de Protección Personal (EPP)
 
+A continuación describimos algunos de los sucesos relevantes durante el periodo en el que el Instituto Politécnico Nacional estuvo construyendo EPP para la comunidad médica.
+
 ## Marzo 25, 2020
 En Marzo 25 del 2020, Dagoberto Pulido, estudiante de doctorado del Instituto Politécnico
 Nacional (IPN), me comunicó que en el Hospital Materno de Celaya querían conseguir cajas tipo “aerosolbox” para protegerse durante las operaciones de intubación de pacientes enfermos de COVID-19. Al parecer, estas cajas fueron desarrolladas por [Lai Hsien-yung](https://sites.google.com/view/aerosolbox/design), un anestesiologísta en Taiwan. Durante el proceso de intubación, hay un grupo de médico que atiende al paciente. El paciente reacciona al proceso de intubación tosiendo, tratando naturalmente de expeler el instrumento que es introducido a su garganta. </br> 
