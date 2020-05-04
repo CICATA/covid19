@@ -279,6 +279,9 @@ Samuel Salas<br/>
 !["19"](IMG-20200331-WA0017.jpg)
 *Fig. 19: La Técnica al Servicio de la Patria*
 
+## Agradecimientos
+Los gastos asociados a la producción de EPP fueron cubiertos por un donativo de la Fundacion Politécnica, los recursos del Instituto Politécnico Nacional, y la generosa participación de estudiantes, profesores, y personas de la sociedad civil, a quienes les quedamos 
+muy agradecidos.
 
 ## Para mayor información: 
 
@@ -289,7 +292,5 @@ jsalasr@ipn.mx o salas@ieee.org<br/>
 Joaquín Salas
 
 
-### Agradecimientos
-Los gastos asociados a la producción de EPP fueron cubiertos por un donativo de la Fundacion Politécnica, los recursos del Instituto Politécnico Nacional, y la generosa participación de estudiantes, profesores, y personas de la sociedad civil, a quienes les quedamos 
-muy agradecidos.
+
 
