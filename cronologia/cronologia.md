@@ -194,6 +194,12 @@ Nos llegan noticias de nuestras caretas siendo utilizadas en el hospital de Onco
 ## Abril 20, 2020
 El Diario de Querétaro sumariza nuestra colaboración en un [reportaje visual](https://www.facebook.com/212232811807/posts/10159140925676808/)
 
+## Sociedad Civil
+El movimiento que se generó ayudo a que otros miembros de la sociedad contribuyeran en la búsqueda del objetivo que se planteaba. Por ejemplo, Adriana Cházaro contribuyó armando caretas. Ella y sus vecinas tomaban material cortado, los llevaban a sus casas y repartian entre sus vecinas. Unas pocas horas después regresaban con caretas armadas. 
+
+Otro caso que también me gustaría mencionar es el caso de Lilian Rodríguez. Ella aportó tiempo de su cortadora láser para producir caretas. Más recientemente, consiguió material y produjo caretas que fueron entregadas al HGQ. Sus 130 caretas no forman parte del inventario que se reporta aquí.
+
+Un grupo amplio de makers en Querétaro y otras partes del país, tomaron nuestros diseños y produjeron material que repartieron en diversas partes del país. Ese EPP no es parte del inventario que aquí reportamos.
 
 
 ## Material Entregado
