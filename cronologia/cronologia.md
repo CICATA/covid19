@@ -4,7 +4,7 @@
 ![logo](https://github.com/CICATA/covid19/blob/master/ipn.png)
 # Cronología en la Construcción de Equipo de Protección Personal (EPP)
 
-A continuación describimos algunos de los sucesos relevantes durante el periodo en el que el Instituto Politécnico Nacional estuvo construyendo EPP para la comunidad médica en sus instalaciones en Querétaro.
+A continuación describimos algunos de los sucesos relevantes durante el periodo en el que el Instituto Politécnico Nacional, en sus instalaciones en Querétaro, estuvo construyendo EPP para la comunidad médica.
 
 ## Marzo 25, 2020
 En Marzo 25 del 2020, Dagoberto Pulido, estudiante de doctorado del Instituto Politécnico
