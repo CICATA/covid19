@@ -174,18 +174,18 @@ Nos llegan noticias de nuestras caretas siendo utilizadas en el hospital de Onco
 
 
 !["14"](IMG-20200401-WA0032.jpg)
-*Fig. 14': Usuarios del EPP construido*
+*Fig. 14: Usuarios del EPP construido*
 
  
 !["15"](IMG-20200331-WA0065.jpg)
-*Fig. 15': Usuarios del EPP construido*
+*Fig. 15: Usuarios del EPP construido*
 
 
 !["16"](IMG-20200331-WA0069.jpg)
-*Fig. 16': Usuarios del EPP construido*
+*Fig. 16: Usuarios del EPP construido*
 
 !["17"](IMG-20200331-WA0070.jpg)
-*Fig. 17': Usuarios del EPP construido*
+*Fig. 17: Usuarios del EPP construido*
 
   
 
