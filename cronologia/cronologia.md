@@ -278,6 +278,7 @@ Juan Alejandro Pulido<br/>
 Maria Ivone Paniagua<br/>
 Dagoberto Pulido<br/>
 Raúl Rodea<br/>
+John Rodríguez <br/>
 Joaquín Salas<br/>
 Samuel Salas<br/>
 
