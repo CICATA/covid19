@@ -279,6 +279,7 @@ Maria Ivone Paniagua<br/>
 Dagoberto Pulido<br/>
 Raúl Rodea<br/>
 John Rodríguez <br/>
+José Juan Rodríguez <br/>
 Joaquín Salas<br/>
 Samuel Salas<br/>
 
