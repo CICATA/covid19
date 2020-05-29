@@ -62,7 +62,7 @@ Maria Ivone Paniagua<br/>
 Dagoberto Pulido<br/>
 Raúl Rodea<br/>
 Joaquín Salas<br/>
-Samuel Salasbr/>
+Samuel Salas<br/>
 
 Agradecemos a quienes con sus ideas nos han antecedido. Nuestra expectativa es que nuestra contribución sean de utilidad. 
 
