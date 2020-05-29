@@ -52,6 +52,7 @@ Este trabajo ha sido fruto del esfuerzo colaborativo de muchas personas voluntar
 Daniela Basurto<br/>
 Omar Montoya<br/>
 Mayra Candido<br/>
+Adriana Cházaro <br/>
 Israel Cruz <br/>
 Othón González<br/>
 Regina Hernández<br/>
