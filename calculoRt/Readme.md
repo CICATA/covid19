@@ -15,7 +15,7 @@ Cori *et al.* asumieron que la tasa a la que una persona infectada contagia a ot
 
 Para construir los gráficos, para cada entidad bajo análisis, comparamos los registros entre el conjunto de datos más actual y el día anterior. Luego, encontramos la fecha más remota en la que hubo un cambio de un día para otro en el número de casos confirmados. Finalmente, mostramos una línea discontinua vertical en esa fecha y a partir de ahí una línea discontinua para el resto de las fechas. La estimación de *R<sub>t</sub>* que proporcionamos tiene la media y desviación estándar en ese momento.
 
-
+El mapa puede ser consultado en tinyurl.com/mexico-Rt
 
 Para mayor información: 
 
