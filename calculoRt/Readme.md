@@ -17,6 +17,16 @@ Para construir los gráficos, para cada entidad bajo análisis, comparamos los r
 
 
 
+Para mayor información: 
+
+Instituto Politécnico Nacional</br>
+Cerro Blanco 141, Colinas del Cimatario</br> 
+Querétaro, 76090, México</br>
+jsalasr@ipn.mx o salas@ieee.org</br>
+Joaquín Salas
+
+
+
 # References
 <a id="1">[1]</a> 
 Cori, Anne and Ferguson, Neil  and Fraser, Christophe and Cauchemez, Simon (2013). 
