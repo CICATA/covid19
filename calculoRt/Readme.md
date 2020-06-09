@@ -19,13 +19,13 @@ Para construir los gráficos, para cada entidad bajo análisis, comparamos los r
 <a id="1">[1]</a> 
 Cori, Anne and Ferguson, Neil  and Fraser, Christophe and Cauchemez, Simon (2013). 
 A New Framework and Software to Estimate Time-Varying Reproduction Numbers during Epidemics. 
-American Journal of Epidemiology
+American Journal of Epidemiology</br>
 <a id="2">[2]</a> 
 Aghaali, Mohammad and Kolifarhood, Goodarz and Nikbakht, Roya and Mozafar Saadati, Hossein and Hashemi Nazari, Seyed Saeed (2020). 
 Estimation of the Serial Interval and Basic Reproduction Number of COVID-19 in Qom, Iran, and Three Other Countries: A Data-Driven Analysis in the Early Phase of the Outbreak. 
-Transboundary and Emerging Diseases
+Transboundary and Emerging Diseases</br>
 <a id="3">[3]</a> 
 Griffin, John  and Collins, Aine  and Hunt, Kevin and McEvoy, David and Casey, Miriam and Byrne,
   Andrew  and McAloon, Conor  and Barber, Ann and Lane, Elizabeth Ann and More, Simon (2020). 
 A Rapid Review of Available Evidence on the Serial Interval and Generation Time of COVID-19. 
-medRxiv
+medRxiv</br>
