@@ -1,0 +1,199 @@
+---
+title: "Estimation del la Constante Básica de Reproducción por Municipio y Estado en México"
+author: "Joaquín Salas"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: pdf_document
+bibliography: ref.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, fig.width=3, fig.height=2)
+```
+
+Este programa estima $R_t$, la constante básica de reproducción para los municipios y estados de México. En nuestra opinión, una vez entendida la magnitud de la epidemia, $R_t$ representa el comportamiento que debe guiarnos sobre si podemos movernos o debemos quedarnos confinados. Valores de $R_t>1$ significan que el número de infectados está creciendo exponencialmente, mientras que valores de $R_t<1$ significan que el número de infectados tiende a ser menor en el tiempo. 
+
+El presente programa está basamos en la librería para **R** (el lenguaje) *EpiEstim*, la cual se construye alrededor del trabajo de Cori *et al.*[-@cori2013new]. 
+
+Cori *et al.* asumieron que la tasa a la que una persona infectada contagia a otras sigue un proceso de Poisson. Enseguida utilizan un proceso de inferencia bayesiano en donde asumen un *prior* en la forma de una distribución Gamma, lo cual resulta en un *posterior* que también sigue una distribución Gamma. Este documento describe la media y desviación estándar resultante como elemento más verosímil del comportamiento y la incertidumbre del estimado.  Siguiendo la recomendación de Cori *et al.* solo calculamos $R_t$ cuando el número de casos es mayor a 12 infectados. Además, siguiendo un estudio de periodicidad propio, calculamos $\tau$ como una semana. Finalmente, usando la investigación de Aghaali *et al.* [-@aghaali2020estimation] asignamos una media de 4.55 y una desviación estándar de 3.30 al *prior* Gamma. Notando que la caracterización del intervalo serial varía ampliamente y posiblemente requiera valores que reflejen la dinámica del país [@griffin2020rapid]. 
+
+Para construir los gráficos, para cada entidad bajo análisis, comparamos los registros entre el conjunto de datos más actual y el día anterior. Luego, encontramos la fecha más remota en la que hubo un cambio de un día para otro en el número de casos confirmados. Finalmente, mostramos una línea discontinua vertical en esa fecha y a partir de ahí una línea discontinua para el resto de las fechas. La estimación de $R_t$ que proporcionamos tiene la media y desviación estándar en ese momento.
+
+
+
+# References
+
+```{r epidemiology}
+
+#suppressMessages(require(ggmap)) # latitude-longitude
+library(EpiEstim)
+library(incidence) #incidence object
+library(distcrete) #discretise a pdf
+library(epitrix) #from mu, cv to scale and shape in the Gamma distribution
+library(latex2exp) #include latex
+library(ggplot2) #ggplot
+source("readData.R")
+source("estimateR0Value.R")
+
+
+
+#working directories
+code.dir = 'E:/Documents/informs/research/2020.05.18 prediction/code/'
+data.dir = 'E:/Documents/informs/research/2020.05.18 prediction/data/'
+setwd(code.dir)
+
+#directories with files that  I use across many applications related to COVID
+common.data.dir = 'E:\\Documents\\informs\\research\\covid-common\\data\\'
+common.data = 'E:\\Documents\\informs\\research\\covid-common\\'
+
+
+
+#files in the data.dir directory corresponding to the Health Ministery data
+files.pattern = "*COVID19MEXICO.csv"
+files <- list.files(path = common.data.dir, pattern =  files.pattern)
+
+
+#############
+#read the data from the last file of cases
+filename = paste(common.data.dir, files[length(files)-1], sep = "")
+covid.before = readData(filename)
+
+filename = paste(common.data.dir, files[length(files)], sep = "")
+covid = readData(filename)
+
+
+
+#filter in positives
+covid.pos = covid[covid$RESULTADO==1,]
+
+#filter in positives
+covid.pos.before = covid.before[covid.before$RESULTADO==1,]
+
+
+```
+
+These are the daily confirmed positives for COVID-19. The horizontal line indicates the date and the vertical one, the daily incidence.
+
+```{r positives}
+
+
+
+
+
+```
+
+The following figure plots the estimated value of $R_t$ for the given epidemic curve. SI is the serial interval, the probability distribution for the period between the onset of the symptoms in the case and its infector. 
+
+```{r value-of-R}
+
+
+
+#read the list of states
+
+filename = paste(common.data, "estados-lat-lon.csv", sep = "")
+estados = read.csv(filename)
+
+
+#read the list of municipios
+
+filename = paste(common.data, "municipios-lat-lon.csv", sep = "")
+municipios  = read.csv(filename)
+
+#forza a realizar una predicción para el primer estado
+old.clave.state = -1
+
+i = 1
+for (entry in seq(1, dim(municipios)[1])) {
+  #print(entry)
+  
+  #extract the municipio name
+  municipio.name = municipios$MUNICIPIO[entry]
+  #print(droplevels(municipio.name))
+  
+  clave.municipio = municipios$CLAVE_MUNICIPIO[entry]
+  clave.state = municipios$CLAVE_ENTIDAD[entry]
+  
+  if (!(clave.state  == old.clave.state)) {
+    state.name = estados$ENTIDAD_FEDERATIVA[clave.state]
+    print(droplevels(state.name))
+    #obtain the cases for this state by state of residency 
+    confirmed.state = covid.pos[covid.pos$ENTIDAD_RES ==  clave.state,]
+    confirmed.state.before = covid.pos.before[covid.pos.before$ENTIDAD_RES ==  clave.state,]
+    #estimate R0 for this municipio
+    estimate = estimateR0Value(confirmed.state,  
+                               confirmed.state.before, state.name,1)
+    
+    #fill up the results 
+    res =  
+      data.frame(estado = state.name, 
+                 Rt = estimate$Rt, 
+                 sd = estimate$sd, 
+                 fecha = estimate$fecha, 
+                 positivos = estimate$positivos, 
+                 latitud = estados$LATITUD[clave.state], 
+                 longitud = estados$LONGITUD[clave.state])
+    #accumulate the results in the data frame
+    if (i == 1){
+      df.state = res
+    } else {
+      
+      df.state = rbind(df.state, res)
+      
+    }
+    
+    old.clave.state = clave.state
+  }
+  
+  
+  
+  #obtain the positives for this municipio out of the state positives
+   confirmed.municipio = covid.pos[covid.pos$MUNICIPIO_RES ==  clave.municipio &
+                                      covid.pos$ENTIDAD_RES == clave.state,]
+    confirmed.municipio.before = 
+      covid.pos.before[covid.pos.before$MUNICIPIO_RES ==  clave.municipio &
+                         covid.pos.before$ENTIDAD_RES == clave.state,]
+  
+  
+  
+  
+  
+  #estimate R0 for this municipio
+  estimate = estimateR0Value(confirmed.municipio,  
+                             confirmed.municipio.before, municipio.name,1)
+  
+  
+  #fill up the results 
+  res =  
+    data.frame(estado = state.name, 
+               municipio = municipio.name, 
+               Rt = estimate$Rt, 
+               sd = estimate$sd,
+               fecha = estimate$fecha, 
+               positivos = estimate$positivos, 
+               latitud = municipios$LATITUD[entry], 
+               longitud = municipios$LONGITUD[entry])
+   
+                 
+  #accumulate the results in the data frame
+  if (i == 1){
+    df.municipio = res
+  } else {
+  
+    df.municipio = rbind(df.municipio, res)
+  
+  }
+  
+  i = i + 1
+}
+
+
+
+filename = paste(data.dir, "state-municipio-Rt-lat-lon.csv", sep = "")
+write.csv(df.municipio, filename)
+
+filename = paste(data.dir, "state-Rt-lat-lon.csv", sep = "")
+write.csv(df.state, filename)
+
+```
+
+
+```{r pressure, echo=FALSE}
