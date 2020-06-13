@@ -17,6 +17,8 @@ Para construir los gráficos, para cada entidad bajo análisis, comparamos los r
 
 El mapa puede ser consultado en tinyurl.com/mexico-Rt
 
+Citar: Geospatial Spread of the COVID-19 Pandemic in Mexico; Dagoberto Pulido, Daniela Basurto, Mayra Cándido, Joaquín Salas. Arxiv 3221420, 2020
+
 Para mayor información: 
 
 <!---Instituto Politécnico Nacional</br>
