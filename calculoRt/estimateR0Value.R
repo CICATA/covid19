@@ -23,11 +23,16 @@ estimateR0Value <- function (positives, positives.before, nombre, limits) {
   
   
   if (positivos > 0) {
-    dates = seq(from = as.Date("2020-02-28"), 
-                to = my.max(as.Date(positives$FECHA_SINTOMAS)), by= "day")
-    
     #this is the more recent date
-    max.date.check = my.max(positives.before$FECHA_SINTOMAS)
+    #2020.06.10, the date in a municipio in Chiapas has a date in before larger than in positives
+    max.date.check = 
+      max(my.max(positives.before$FECHA_INICIO_CUADRO_CLINICO), 
+          my.max(as.Date(positives$FECHA_INICIO_CUADRO_CLINICO)))
+    
+    
+    dates = seq(from = as.Date("2020-02-28"), 
+                to = max.date.check, by= "day")
+    
     
     lim.date = max.date.check
     #within the sequence, this will be its position
@@ -40,13 +45,13 @@ estimateR0Value <- function (positives, positives.before, nombre, limits) {
     keep.checking = TRUE
     for (date in dates) {
       #filter in the cases for this date
-      cases = positives[positives$FECHA_SINTOMAS == date,]
+      cases = positives[positives$FECHA_INICIO_CUADRO_CLINICO == date,]
       #count how many registers there are for this date
       num.cases[i] = dim(cases)[1]
       
       if (keep.checking) {
         if (date <= max.date.check){
-          cases.before = positives.before[positives.before$FECHA_SINTOMAS == date,]
+          cases.before = positives.before[positives.before$FECHA_INICIO_CUADRO_CLINICO == date,]
           #count how many registers there are for this date
           num.cases.before = dim(cases.before)[1]
           if (!(num.cases[i] == num.cases.before)){

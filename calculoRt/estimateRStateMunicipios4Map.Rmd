@@ -1,0 +1,200 @@
+---
+title: "Estimation of the Value of $R_t$ by Municipio in each State for the Map"
+author: "Joaquín Salas"
+date: "June 7, 2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, fig.width=3, fig.height=2)
+```
+
+## Introduction
+This program estimates $R_t$ for the municipios of all the states in Mexico. 
+We base our implementation in EpiEstim, a library package for **R** (the language) discussed 
+in the article *A New Framework and Software to Estimate Time-Varying Reproduction*, 2013, and implemented in the library EpiEstim described in the link \url{https://cran.r-project.org/web/packages/EpiEstim/EpiEstim.pdf}
+
+The authors of EpiEstim assumed that the rate at which a positive contagious person follows a Poisson process. Using a Gamma prior, the posterior results in a Gamma distribution. We use the expected value and standard deviation as the values of $R_t$ and its uncertainty. Following the recommendation, we do not compute $R_t$ when the number of cases is less than 12. Also, although estimated for influenza,  we use  a mean equal to 2.6 and a standard deviation equal to  1.5 for the parameters for the Gamma prior distribution.
+
+To construct the graph, we compare the records between the most current dataset and the day before. We find the furthest date where there was a change from one day to the next, in the number of confirmed cases. We show a dashed line for the estimation of $R_t$ from then on.
+
+
+
+```{r epidemiology}
+
+#suppressMessages(require(ggmap)) # latitude-longitude
+library(EpiEstim)
+library(incidence) #incidence object
+library(distcrete) #discretise a pdf
+library(epitrix) #from mu, cv to scale and shape in the Gamma distribution
+library(latex2exp) #include latex
+library(ggplot2) #ggplot
+source("readData.R")
+source("estimateR0Value.R")
+
+
+#asigna la llave API
+#register_google(key = "AIzaSyDieTBLAqPlfc9kCShr4VUal-ou4w2ZbhU")
+
+
+#working directories
+code.dir = 'E:/Documents/informs/research/2020.05.18 prediction/code/'
+data.dir = 'E:/Documents/informs/research/2020.05.18 prediction/data/'
+setwd(code.dir)
+
+#directories with files that  I use across many applications related to COVID
+common.data.dir = 'E:\\Documents\\informs\\research\\covid-common\\data\\'
+common.data = 'E:\\Documents\\informs\\research\\covid-common\\'
+
+
+
+#files in the data.dir directory corresponding to the Health Ministery data
+files.pattern = "*COVID19MEXICO.csv"
+files <- list.files(path = common.data.dir, pattern =  files.pattern)
+
+
+#############
+#read the data from the last file of cases
+filename = paste(common.data.dir, files[length(files)-1], sep = "")
+covid.before = readData(filename)
+
+filename = paste(common.data.dir, files[length(files)], sep = "")
+covid = readData(filename)
+
+
+
+#filter in positives
+covid.pos = covid[covid$RESULTADO==1,]
+
+#filter in positives
+covid.pos.before = covid.before[covid.before$RESULTADO==1,]
+
+
+```
+
+These are the daily confirmed positives for COVID-19. The horizontal line indicates the date and the vertical one, the daily incidence.
+
+```{r positives}
+
+
+
+
+
+```
+
+The following figure plots the estimated value of $R_t$ for the given epidemic curve. SI is the serial interval, the probability distribution for the period between the onset of the symptoms in the case and its infector. 
+
+```{r value-of-R}
+
+
+
+#read the list of states
+
+filename = paste(common.data, "estados-lat-lon.csv", sep = "")
+estados = read.csv(filename)
+
+
+#read the list of municipios
+
+filename = paste(common.data, "municipios-lat-lon.csv", sep = "")
+municipios  = read.csv(filename)
+
+#forza a realizar una predicción para el primer estado
+old.clave.state = -1
+
+i = 1
+for (entry in seq(1, dim(municipios)[1])) {
+  #print(entry)
+  
+  #extract the municipio name
+  municipio.name = municipios$MUNICIPIO[entry]
+  #print(droplevels(municipio.name))
+  
+  clave.municipio = municipios$CLAVE_MUNICIPIO[entry]
+  clave.state = municipios$CLAVE_ENTIDAD[entry]
+  
+  if (!(clave.state  == old.clave.state)) {
+    state.name = estados$ENTIDAD_FEDERATIVA[clave.state]
+    print(droplevels(state.name))
+    #obtain the cases for this state by state of residency 
+    confirmed.state = covid.pos[covid.pos$ENTIDAD_RES ==  clave.state,]
+    confirmed.state.before = covid.pos.before[covid.pos.before$ENTIDAD_RES ==  clave.state,]
+    #estimate R0 for this municipio
+    estimate = estimateR0Value(confirmed.state,  
+                               confirmed.state.before, state.name,1)
+    
+    #fill up the results 
+    res =  
+      data.frame(estado = state.name, 
+                 Rt = estimate$Rt, 
+                 sd = estimate$sd, 
+                 fecha = estimate$fecha, 
+                 positivos = estimate$positivos, 
+                 latitud = estados$LATITUD[clave.state], 
+                 longitud = estados$LONGITUD[clave.state])
+    #accumulate the results in the data frame
+    if (i == 1){
+      df.state = res
+    } else {
+      
+      df.state = rbind(df.state, res)
+      
+    }
+    
+    old.clave.state = clave.state
+  }
+  
+  
+  
+  #obtain the positives for this municipio out of the state positives
+   confirmed.municipio = covid.pos[covid.pos$MUNICIPIO_RES ==  clave.municipio &
+                                      covid.pos$ENTIDAD_RES == clave.state,]
+    confirmed.municipio.before = 
+      covid.pos.before[covid.pos.before$MUNICIPIO_RES ==  clave.municipio &
+                         covid.pos.before$ENTIDAD_RES == clave.state,]
+  
+  
+  
+  
+  
+  #estimate R0 for this municipio
+  estimate = estimateR0Value(confirmed.municipio,  
+                             confirmed.municipio.before, municipio.name,1)
+  
+  
+  #fill up the results 
+  res =  
+    data.frame(estado = state.name, 
+               municipio = municipio.name, 
+               Rt = estimate$Rt, 
+               sd = estimate$sd,
+               fecha = estimate$fecha, 
+               positivos = estimate$positivos, 
+               latitud = municipios$LATITUD[entry], 
+               longitud = municipios$LONGITUD[entry])
+   
+                 
+  #accumulate the results in the data frame
+  if (i == 1){
+    df.municipio = res
+  } else {
+  
+    df.municipio = rbind(df.municipio, res)
+  
+  }
+  
+  i = i + 1
+}
+
+
+
+filename = paste(data.dir, "state-municipio-Rt-lat-lon3.csv", sep = "")
+write.csv(df.municipio, filename)
+
+filename = paste(data.dir, "state-Rt-lat-lon3.csv", sep = "")
+write.csv(df.state, filename)
+
+```
+
+
+```{r pressure, echo=FALSE}

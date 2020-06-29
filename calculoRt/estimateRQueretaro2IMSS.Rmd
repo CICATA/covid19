@@ -25,9 +25,9 @@ Para construir los gráficos, para cada entidad bajo análisis, comparamos los r
 Términos y condiciones: Este reporte ha sido elaborado por “el autor” y se proporciona al público estrictamente para la salud pública, la educación, y la investigación académica. El reporte se basa en datos hechos públicos por la Secretaría de Salud y código que está disponible en el blog de información: \url{https://tinyurl.com/calculo-Rt}. “El autor” declara que no ofrece garantías con respecto al reporte, incluida la precisión, la idoneidad para el uso, y la fiabilidad. Se prohíbe estrictamente confiar en el reporte para obtener orientación médica o usar el reporte para fines comerciales. También se prohíbe estrictamente el uso de este reporte, su información y la documentación puesta a disposición con fines promocionales o comerciales. Consulte la información oficial de la Secretaría de Salud en donde expertos ayudan a mejorar la comprensión del virus SARS-CoV-2, informar al público, formular políticas para guiar una respuesta, mejorar la atención y salvar vidas.
 
 ## Mayor Información: 
-Joaquín Salas. salas@ieee.org
+Joaquín Salas. salas@ieee.org. Profesor del Instituto Politécnico Nacional. Cerro Blanco 141, Colinas del Cimatario, Querétaro. Tel. 442.1223.829
 
-Citar: Geospatial Spread of the COVID-19 Pandemic in Mexico; Dagoberto Pulido, Daniela Basurto, Mayra Cándido, Joaquín Salas. Arxiv 3221420, 2020
+Citar: Geospatial Spread of the COVID-19 Pandemic in Mexico; Dagoberto Pulido, Daniela Basurto, Mayra Cándido, Joaquín Salas. http://arxiv.org/abs/2006.07784, 2020
 
 
 ```{r epidemiology}
@@ -49,7 +49,7 @@ setwd(dir)
 
 filename = paste(code.dir, "readDataIMSS.R", sep = "")
 source(filename)
-filename = paste(code.dir, "estimateR0ValueIMSS.R", sep = "")
+filename = paste(code.dir, "estimateR0ValueIMSS2.R", sep = "")
 source(filename)
 
 
@@ -60,11 +60,11 @@ common.data.dir = 'E:\\Documents\\informs\\research\\covid-common\\'
 #############
 #read the data from the last file of cases
 
-filename = paste(data.dir, "censo_nominal_QUERETARO_20200611_1300x.csv", sep = "")
+filename = paste(data.dir, "CONCENTRADO SOSPECHOSOS 27-06-2020 (Autoguardado).csv", sep = "")
 covid.before = readDataIMSS(filename)
 
 
-filename = paste(data.dir, "censo_nominal_QUERETARO_20200612_1300x.csv", sep = "")
+filename = paste(data.dir,"CONCENTRADO SOSPECHOSOS A 28-06-2020.csv" , sep = "")
 covid = readDataIMSS(filename)
 
 
@@ -94,8 +94,12 @@ i <- suppressMessages(incidence(confirmed.del$FECHA_INICIO_CUADRO_CLINICO))
 plot(i) + theme(axis.text.x = element_text(angle = 20, hjust = 1, size = 6))
 
 
-estimateR0ValueIMSS(confirmed.del,  confirmed.del.before, nombre,1)
+estimate.data = estimateR0ValueIMSS(
+  confirmed.del,  confirmed.del.before, nombre,1)
+ 
 
+filename = paste(data.dir, nombre, ".csv", sep = "")
+write.csv(estimate.data, filename)
 
 #}
 
@@ -116,8 +120,12 @@ for (unidad in unique.unidad) {
     confirmed.del.before[confirmed.del.before$CLUES_UNIDAD_NOTIFICANTE %in% unidad,]
   
   
-  estimateR0ValueIMSS(set.unidad,  set.unidad.before, nombre,1)
-  
+  estimate.data = estimateR0ValueIMSS(
+    set.unidad,  set.unidad.before, nombre,1)
+  if (dim(estimate.data)[1] > 0) {
+    filename = paste(data.dir, nombre, ".csv", sep = "")
+    write.csv(estimate.data, filename)
+  }
   
 }
 
