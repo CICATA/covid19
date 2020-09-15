@@ -88,7 +88,7 @@ Esa primera entrega incluyó caretas y cajas aerosolbox.
 
  
 
-Más tarde, también levamos cajas y caretas a la Delegación del IMSS, donde fuimos recibidos por su delegada. También estuvieron muy contentos de recibir el apoyo del IPN. De esta forma comenzamos con estas acciones una relación con la delegación IMSS que se ha manifestado en acciones como elaboración de programas de cómputo para la elaboración de sus informes y el análisis de sus datos para la predicción de los resultados a la prueba molecular de reacción en cadena de polimerasa de transcripción inversa cuantitativa (qRT-PCR).
+Más tarde, también llevamos cajas y caretas a la Delegación del IMSS, donde fuimos recibidos por su delegada. También estuvieron muy contentos de recibir el apoyo del IPN. De esta forma comenzamos con estas acciones una relación con la delegación IMSS que se ha manifestado en acciones como elaboración de programas de cómputo para la elaboración de sus informes y el análisis de sus datos para la predicción de los resultados a la prueba molecular de reacción en cadena de polimerasa de transcripción inversa cuantitativa (qRT-PCR).
 
 !["8"](IMG_20200329_152830170.jpg)
 *Fig. 8: Primera entrega de material al IMSS.*
